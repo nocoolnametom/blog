@@ -71,7 +71,7 @@ still be found in the [official LDS Church Institute manual][], unfortunately,
 where they quote Elder Spencer W. Kimball:
 
 > There are said to be millions of perverts who have relinquished their natural
->  affection and bypassed courtship and normal marriage relationships.^[^1]^
+>  affection and bypassed courtship and normal marriage relationships.[^1]
 
 [^1]: [Spencer W. Kimball, "Voices of the Past, of the Present, of the Future", April 1971 General Conference][]
 
@@ -194,16 +194,7 @@ they want to keep it in Scripture Mastery I say more power to them.
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-<div class="footnotes">
-
-* * * * *
-
-///Footnotes Go Here///
-
-</div>
-
-  [official LDS Church Institute manual]: http://www.lds.org/manual/the-life-and-teachings-of-jesus-and-his-apostles/section-10-pauls-witness-to-priesthood-leaders/chapter-45-i-have-fought-a-good-fight-i-have-finished-my-course-i-have-kept-the-faith?lang=eng "The Life and Teachings of Jesus and his Apostles"
-  [that will be its own post]: /2013/02/11/ever-learning/ "“Ever Learning, and Never Able to Come to a Knowledge of the Truth” "
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/ "Scripture Mastery: New Testament"
-  [Spencer W. Kimball, "Voices of the Past, of the Present, of the Future", April 1971 General Conference]: http://www.lds.org/ensign/1971/06/voices-of-the-past-of-the-present-of-the-future?lang=eng "Voices of the Past, of the Present, of the Future"
-  [↩]: #fnref-478:1
+[official LDS Church Institute manual]: http://www.lds.org/manual/the-life-and-teachings-of-jesus-and-his-apostles/section-10-pauls-witness-to-priesthood-leaders/chapter-45-i-have-fought-a-good-fight-i-have-finished-my-course-i-have-kept-the-faith?lang=eng "The Life and Teachings of Jesus and his Apostles"
+[that will be its own post]: /2013/02/11/ever-learning/ "“Ever Learning, and Never Able to Come to a Knowledge of the Truth” "
+[See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/ "Scripture Mastery: New Testament"
+[Spencer W. Kimball, "Voices of the Past, of the Present, of the Future", April 1971 General Conference]: http://www.lds.org/ensign/1971/06/voices-of-the-past-of-the-present-of-the-future?lang=eng "Voices of the Past, of the Present, of the Future"

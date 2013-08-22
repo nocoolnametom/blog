@@ -18,34 +18,28 @@ Slug: scripture-mastery-nt-11
 > unless I >  say so in the post.  I'm trying to show the range lying between the
 > original >  Greek text and the English.</span>
 
-* * * * *
+!!! update "Update May 2013"
+    * This scripture has been removed by the Church Educational System from
+    the Scripture Mastery list. However, it had remained within this list for
+    over two decades and as such is still familiar to many graduates of the LDS
+    Church's Seminary program. So I'm keeping this exploration of it online, but it
+    is no longer applicable to CES.*
 
-##### Update May 2013
-
-*This scripture has been removed by the Church Educational System from
-the Scripture Mastery list. However, it had remained within this list for
-over two decades and as such is still familiar to many graduates of the LDS
-Church's Seminary program. So I'm keeping this exploration of it online, but it
-is no longer applicable to CES.*
-
-* * * * *
-
-#### A Quick Note
-
-> It's a lot of fun to write these posts, but I want to do even better.
->  So I'm >  slowing down the pace in order to give each individual post some time
-> to >  hopefully spread through the Internet.  A new Scripture Mastery post
-> should >  appear every Monday and every Thursday.  I'm asking anyone who has
-> been >  enjoying this series to please comment, share/post links, ask
-> questions, post >  rebuttals, and what have you.  I'm relatively confident in what I'm
-> doing, >  but I've already been able to find and fix some problems in previous
-> posts >  due to people getting involved.  Share you experiences in Seminary or
-> Sunday >  School about these scriptures.  Ask questions about other areas and >  scriptures (I can only really answer translation questions about the
-> New >  Testament personally, though I feel rather confident in my knowledge
-> of the >  "Old Testament", better called the Hebrew Bible, too).  And if
-> you're >  enjoying this, please just drop a quick note to say so.  Just a
-> quick >  "Thanks" or "Cool beans" really makes my day.  Thanks!  Now onto the
-> post!
+!!! note "A Quick Note"
+    It's a lot of fun to write these posts, but I want to do even better. So I'm
+    slowing down the pace in order to give each individual post some time to
+    hopefully spread through the Internet.  A new Scripture Mastery post should
+    appear every Monday and every Thursday.  I'm asking anyone who has been
+    enjoying this series to please comment, share/post links, ask questions, post
+    rebuttals, and what have you.  I'm relatively confident in what I'm doing,
+    but I've already been able to find and fix some problems in previous posts
+    due to people getting involved.  Share you experiences in Seminary or Sunday
+    School about these scriptures.  Ask questions about other areas and
+    scriptures (I can only really answer translation questions about the New
+    Testament personally, though I feel rather confident in my knowledge of the
+    "Old Testament", better called the Hebrew Bible, too).  And if you're
+    enjoying this, please just drop a quick note to say so.  Just a quick
+    "Thanks" or "Cool beans" really makes my day.  Thanks!  Now onto the post!
 
 The Context: Stephen's Martyrdom in Acts
 ----------------------------------------
@@ -91,7 +85,8 @@ trouble with their audience.) He then proclaims that he sees Jesus in vision
 with God, and the crowd are so incensed that they decide to stone Stephen to
 death on the spot.
 
-Jewish leaders did not have the authority to kill Judeans without Roman approval.  This is usually given in Sunday School as the explanation
+Jewish leaders did not have the authority to kill Judeans without Roman
+approval.  This is usually given in Sunday School as the explanation
 for why Pilate, the Roman procurator of Judea, was involved in the sentencing
 and execution of Jesus (and indeed that was probably why the Romans were
 involved, but if so, we've lost record of what Jesus's crime against Rome
@@ -202,10 +197,14 @@ could be that Jesus is *set* (also a valid interpretation of the verb) in a
 position of authority in relation to God.  Jesus is God's "right-hand man," in
 other words.
 
-> "To sit at the 'right hand' of the king was an honor (see 1 Kgs 2:19).
-> In >  Ugaritic myth^[1][]^ the artisan god Kothar-and Khasis is described
-> as sitting at >  the right hand of the storm god Baal. See G. R. Driver, *Canaanite
-> Myths and >  Legends*, 61-62." >  <span>([Net Bible][], Psalm 110:1, >  Footnote 4)</span>
+> "To sit at the 'right hand' of the king was an honor (see 1 Kgs 2:19). In
+>  Ugaritic myth[^1] the artisan god Kothar-and Khasis is described as sitting at
+>  the right hand of the storm god Baal. See G. R. Driver, *Canaanite Myths and
+>  Legends*, 61-62."
+>  <span>([Net Bible][], Psalm 110:1,
+>  Footnote 4)</span>
+
+[^1]:  *Corpus des tablettes en cunéiformes alphabetiques* 4 v. 108-10
 
 So it could be less a statement of their separateness and more a
 statement that Jesus is indeed who Stephen said he was: a divine messenger approved of
@@ -238,17 +237,5 @@ conception of what the debate over Mormon-Christian theology is about.
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-<div class="footnotes">
-
-* * * * *
-
-1.  *Corpus des tablettes en cunéiformes alphabetiques* 4 v.
-    108-10 [↩][]
-
-</div>
-
-  [1]: #fn-196:1
   [Net Bible]: https://net.bible.org/#!bible/Psalms+110
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/
-    "Scripture Mastery: New Testament"
-  [↩]: #fnref-196:1
+  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/ "Scripture Mastery: New Testament"

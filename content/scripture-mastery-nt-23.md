@@ -17,7 +17,7 @@ Slug: scripture-mastery-nt-23
 >  <span>18</span> Yet someone will say, You have belief, I
 >  likewise have labors.  ~~You've shown to me~~ Show
 >  me your belief apart from labors, I likewise will show
->  you my belief from labors.^[^1]^
+>  you my belief from labors.[^1]
 
 [^1]: I made a mistake as found in the comments below.
 

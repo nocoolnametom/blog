@@ -29,8 +29,6 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-MD_EXTENSIONS = ('admonition','extra','headerid','sane_lists')
+MD_EXTENSIONS = (['admonition','extra'])
 
-TYPOGRIFY = true
-
-PLUGINS = ['pelican.plugins.gravatar',]
+TYPOGRIFY = True

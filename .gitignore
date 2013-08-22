@@ -1,2 +1,4 @@
 _site/
-output/
+dev_output/
+published_output/
+__pycache__/

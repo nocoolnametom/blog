@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'NoCoolName Tom'
 SITENAME = u'NoCoolName Blog'
-SITEURL = ''
+SITEURL = 'http://dev.blog.nocoolnametom.com'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
@@ -17,13 +17,11 @@ TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+          )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('NoCoolName_Tom', 'http://gravatar.com/nocoolnametom'),
+          )
 
 DEFAULT_PAGINATION = 10
 

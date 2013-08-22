@@ -7,7 +7,7 @@ Slug: matrix-inception-exmormon
 My Experience
 -------------
 
-<span class="alignright w300" markdown="1"> [![A classic case of Liahona vs Iron rod.][]][] </span>
+<span class="alignright w300" markdown="1"> [![A classic case of Liahona vs Iron rod.][]][http://exceedinglycurious.com/2010/08/02/ah-the-up-turned-nose/] </span>
 
 When I was growing up in the Church, long before my crisis of faith and eventually
 admitting I was an Exmormon, I discovered the famous
@@ -33,9 +33,9 @@ some serious negative connotations. Unlike "Liahona" and "Iron Rod", the
 Chapel- Traditional distinction is usually applied in a divisive fashion meant
 to provide a negative view of another person. For this reason I try hard
 to refrain from using it, but it also continues to provide a cool short-hand in
-describing aspects of Mormon belief and approach.<!--more-->
+describing aspects of Mormon belief and approach.
 
-<span class="alignright w180" markdown="1"> [![Outer Blogness][]][] </span>
+<span class="alignright w180" markdown="1"> [![Outer Blogness][]][http://outerblogness.org/] </span>
 
 In recent years, for various reasons, I have decided that I no longer
 believe the truth claims of the LDS Church. I was mentally a NOM for a while,
@@ -78,7 +78,7 @@ truth claims of the LDS Church are false. I reserve the unlikely possibility tha
 given further evidence, I might have to one day change my opinion one way or
 another.)
 
-<span class="alignright w294" markdown="1"> [![I am an Exmormon][]][] </span>
+<span class="alignright w294" markdown="1"> [![I am an Exmormon][]][http://media.photobucket.com/image/recent/thehappyhummingbird/Screenshot2011-02-05at110718PM.png] </span>
 
 One of the major helps in coming to terms with leaving the Church was
 the YouTube series ["I am an Exmormon."][] More than simply a response to the
@@ -408,13 +408,10 @@ other view (but which comes first and which comes second and can they keep
 switching back and forth?).  I'm very interested in things like that.  Are you?
 
   [A classic case of Liahona vs Iron rod.]: http://static.nocoolnametom.com/images/blog_content/2011/liahona_vs_iron_rod.gif
-  [![A classic case of Liahona vs Iron rod.][]]: http://exceedinglycurious.com/2010/08/02/ah-the-up-turned-nose/
   [LDS Chapel]: http://static.nocoolnametom.com/images/blog_content/2011/mormon-church.jpg
   [Outer Blogness]: http://static.nocoolnametom.com/images/blog_content/2011/outer_blogness.jpg
-  [![Outer Blogness][]]: http://outerblogness.org/
   [Kathryn Schulz]: http://www.ted.com/talks/kathryn_schulz_on_being_wrong.html
   [I am an Exmormon]: http://i1137.photobucket.com/albums/n520/thehappyhummingbird/Screenshot2011-02-05at110718PM.png
-  [![I am an Exmormon][]]: http://media.photobucket.com/image/recent/thehappyhummingbird/Screenshot2011-02-05at110718PM.png
   ["I am an Exmormon."]: http://www.iamanexmormon.com/
   [Angry Family]: http://static.nocoolnametom.com/images/blog_content/2011/angry_family_1-333141002_std.jpg
   [The Facts]: http://static.nocoolnametom.com/images/blog_content/2011/the-facts1.jpg
@@ -426,5 +423,5 @@ switching back and forth?).  I'm very interested in things like that.  Are you
   [Inception Snow]: http://static.nocoolnametom.com/images/blog_content/2011/inception-snow.jpg
   [Inception Pinwheel]: http://static.nocoolnametom.com/images/blog_content/2011/inception3.jpg
   [Inception Target]: http://static.nocoolnametom.com/images/blog_content/2011/inception2.jpg
-  [I   understand]: /2011/01/14/my-experience-with-pornography-recovery/
+  [I understand]: /2011/01/14/my-experience-with-pornography-recovery/
   [Truce]: http://static.nocoolnametom.com/images/blog_content/2011/truce.jpg

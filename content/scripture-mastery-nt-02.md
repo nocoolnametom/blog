@@ -12,7 +12,7 @@ Slug: scripture-mastery-nt-02
 > will hate >  and another he will love, or he will hold to one and >  despise another; y'all cannot be a slave to both God and >  mammon. <span>[*Mammon is the Aramaic word "mmôn" copied >  directly into the Greek as "mamonas" and means >  "riches".*]</span>
 >
 > **KJV:** No man can serve two masters: for either he will hate the
-> one, and >  love the other; or else he will hold to the one, and despise the >  other. Ye cannot serve God and mammon.<!--more-->
+> one, and >  love the other; or else he will hold to the one, and despise the >  other. Ye cannot serve God and mammon.
 >
 > <span style="font-size: x-small;">My translations are purposefully
 > stretched >  and should not be viewed as more accurate than the KJV translation

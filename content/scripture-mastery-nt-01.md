@@ -12,7 +12,7 @@ Slug: scripture-mastery-nt-01
 > A city >  cannot be hidden when laid on a hill. >  <span>15</span> And people don't burn a candle and put it >  under a bushel-container, but on a candlestick, and it >  shines to everything within the house. >  <span>16</span> Even so, shine your light in front of >  humans, that they may see your good deeds and praise your >  father who is in the heavens.
 >
 > **KJV:** <span>14</span> Ye are the light of the world. A city that is
-> set on >  an hill cannot be hid. >  <span>15</span> Neither do men light a candle, and put it under a >  bushel, but on a candlestick; and it giveth light unto all that are >  in the house. >  <span>16</span> Let your light so shine before men, that they may >  see your good works, and glorify your Father which is in >  heaven.<!--more-->
+> set on >  an hill cannot be hid. >  <span>15</span> Neither do men light a candle, and put it under a >  bushel, but on a candlestick; and it giveth light unto all that are >  in the house. >  <span>16</span> Let your light so shine before men, that they may >  see your good works, and glorify your Father which is in >  heaven.
 
 Before we begin, let me make a quick note on my translations: I am
 making these translations partially to be read in conjunction with the more-familiar

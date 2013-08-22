@@ -59,11 +59,11 @@ have the Jewish scriptures in mind when he writes this.
 Secondly, and interestingly, the Joseph Smith Translation actually
 tackles this issue by shuffling a few words around to result in the following:
 
->  <span>16</span> **And** all scripture ~~is~~ given by inspiration of
->  God, ~~and~~ is profitable for doctrine, for reproof, for correction,
->  for instruction in righteousness;
->  <span>17</span> That the man of God may be perfect, thoroughly furnished unto
->  all good works.
+>  <span>16</span> ++And++ all scripture ~~is~~ given by inspiration of God,
+>   ~~and~~ is profitable for doctrine, for reproof, for correction, for instruction
+>   in righteousness;
+>   <span>17</span> That the man of God may be perfect, thoroughly furnished unto
+>   all good works.
 
 Now the scripture is saying that all *inspired* scripture is useful.
 Big change from a few word changes.  Unfortunately, while this change is very easy

@@ -29,6 +29,6 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-MD_EXTENSIONS = (['admonition','extra'])
+MD_EXTENSIONS = (['admonition','extra','del_ins','superscript',])
 
 TYPOGRIFY = True

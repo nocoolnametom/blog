@@ -4,24 +4,44 @@ Author: nocoolnametom
 Category: New Testament
 Slug: scripture-mastery-nt-16
 
-> **Greek:** <span>40</span> καὶ σώματα ἐπουράνια, καὶ σώματα ἐπίγεια·
-> ἀλλὰ >  ἑτέρα μὲν ἡ τῶν ἐπουρανίων δόξα, ἑτέρα δὲ ἡ τῶν ἐπιγείων. >  <span>41</span> ἄλλη δόξα ἡλίου, καὶ ἄλλη δόξα σελήνης, καὶ ἄλλη >  δόξα ἀστέρων· ἀστὴρ γὰρ ἀστέρος διαφέρει ἐν δόξῃ. >  <span>42</span> οὕτως καὶ ἡ ἀνάστασις τῶν νεκρῶν. σπείρεται ἐν >  φθορᾷ, ἐγείρεται ἐν ἀφθαρσίᾳ·
+> **Greek:**
+>  <span>40</span> καὶ σώματα ἐπουράνια, καὶ σώματα ἐπίγεια· ἀλλὰ
+>  ἑτέρα μὲν ἡ τῶν ἐπουρανίων δόξα, ἑτέρα δὲ ἡ τῶν ἐπιγείων.
+>  <span>41</span> ἄλλη δόξα ἡλίου, καὶ ἄλλη δόξα σελήνης, καὶ ἄλλη
+>  δόξα ἀστέρων· ἀστὴρ γὰρ ἀστέρος διαφέρει ἐν δόξῃ.
+>  <span>42</span> οὕτως καὶ ἡ ἀνάστασις τῶν νεκρῶν. σπείρεται ἐν
+>  φθορᾷ, ἐγείρεται ἐν ἀφθαρσίᾳ·
 >
-> **My Translation:** <span>40</span> And bodies heavenly, and bodies
-> earthly; >  therefore is one the honor of heavens, and the other of >  earths. >  <span>41</span> Another is solar honor, and another is >  lunar honor, and another honor of stars; for star from >  star differs in honor. >  <span>42</span> And thus the resurrection of the dead. It >  is sown with ruin, it is raised with perfection.
+> **My Translation:**
+>  <span>40</span> And bodies heavenly, and bodies earthly;
+>  therefore is one the honor of heavens, and the other of
+>  earths.
+>  <span>41</span> Another is solar honor, and another is
+>  lunar honor, and another honor of stars; for star from
+>  star differs in honor.
+>  <span>42</span> And thus the resurrection of the dead. It
+>  is sown with ruin, it is raised with perfection.
 >
-> **KJV:** <span>40</span> There are also celestial bodies, and bodies >  terrestrial: but the glory of the celestial is one, and the glory of >  the terrestrial is another. >  <span>41</span> There is one glory of the sun, and another glory of >  the moon, and another glory of the stars: for one star differeth
-> from >  another star in glory. >  <span>42</span> So also is the resurrection of the dead. It is sown >  in corruption; it is raised in incorruption.<!--more-->
+> **KJV:**
+>  <span>40</span> There are also celestial bodies, and bodies
+>  terrestrial: but the glory of the celestial is one, and the glory of
+>  the terrestrial is another.
+>  <span>41</span> There is one glory of the sun, and another glory of
+>  the moon, and another glory of the stars: for one star differeth from
+>  another star in glory.
+>  <span>42</span> So also is the resurrection of the dead. It is sown
+>  in corruption; it is raised in incorruption.
 >
-> <span style="font-size: x-small;">My translations are purposefully
-> stretched >  and should not be viewed as more accurate than the KJV translation
-> unless I >  say so in the post.  I'm trying to show the range lying between the
-> original >  Greek text and the English.</span>
+> <span style="font-size: x-small;">My translations are purposefully stretched
+>  and should not be viewed as more accurate than the KJV translation unless I
+>  say so in the post.  I'm trying to show the range lying between the original
+>  Greek text and the English.</span>
 
 Yet Again In the Same Chapter
 -----------------------------
 
-We've been looking at chapter 15 of 1 Corinthians for the past [two][] [posts][].  Today we hit the last of these three scripture mastery verses from 1 Corinthians.
+We've been looking at chapter 15 of 1 Corinthians for the past [two][] [posts][].
+Today we hit the last of these three scripture mastery verses from 1 Corinthians.
 
 It shouldn't surprise you after the past posts that we're still talking
 about the resurrection.  In keeping with the context of the chapter, Paul
@@ -60,10 +80,11 @@ sun, moon, and stars), Paul returns back to what he was saying about the seed. �
 verses 42-44, Paul likens this process of a seed become a plant to the
 resurrection of the body:
 
-> <span>42</span> And thus the resurrection of the dead.  It is sown
-> with ruin, >  it is raised with perfection. >  <span>43</span> It is sown with dishonor, it is raised with
-> reputation; it is >  sown with weakness, it is raised with power; >  <span>44</span> it is sown a natural body, it is raised a spiritual
-> body...
+> <span>42</span> And thus the resurrection of the dead.  It is sown with ruin,
+>  it is raised with perfection.
+>  <span>43</span> It is sown with dishonor, it is raised with reputation; it is
+>  sown with weakness, it is raised with power;
+>  <span>44</span> it is sown a natural body, it is raised a spiritual body...
 
 For Paul, the resurrected body is a "spiritual" body, which is as
 different from the "natural" body as a plant is from a seed.  But he's already argued
@@ -93,7 +114,9 @@ sun, Mormons generally view verses 40-41 out of their context to be talking
 about the various type of *resurrected* bodies that God has in store for humans.
  When Joseph was editing the Bible, verse 40 received the following changes:
 
-> ~~There are~~ also celestial bodies, and bodies terrestrial, **and >  bodies telestial;** but the glory of the celestial ~~is~~, one; and >  ~~the glory of~~ the terrestrial ~~is~~, another; **and the >  telestial, another.**
+> ~~There are~~ also celestial bodies, and bodies terrestrial, ++and bodies telestial;++
+>  but the glory of the celestial ~~is~~, one; and ~~the glory of~~ the terrestrial
+>  ~~is~~, another; ++and the telestial, another.++
 
 In Mormon thought, God has three different conditions or heavens
 awaiting humans after the final judgement: the Celestial Kingdom for God's people who
@@ -109,7 +132,8 @@ Is this a valid way of reading this verse?  No, it's not.
 Joseph's Linguistic Problems
 ----------------------------
 
-The English word celestial is based on the Latin "caelestis", meaning "heavenly".  The Greek from verse 40 is ἐπουράνια *epouránia*, which
+The English word celestial is based on the Latin "caelestis", meaning
+"heavenly".  The Greek from verse 40 is ἐπουράνια *epouránia*, which
 also means "heavenly".  If you take the *epo* off of the front (which is what
 makes it a word "concerning" something) you get the root *uránia,* which should
 be recognizable as the same root for the planet Uranus.  And the English
@@ -142,7 +166,8 @@ majority of their beliefs about the Three Degrees of Glory can be found in Secti
 76 of the Doctrine and Covenants.  Just because Joseph twisted 1 Corinthians
 15:40 in such a way as to introduce "telestial" to the list of bodies in an attempt
 to describe the levels of Mormon salvation doesn't mean that Mormons have
-nowhere from which to obtain the teaching.  Recovering the correct context and interpretation of these verses doesn't destroy the doctrine of the
+nowhere from which to obtain the teaching.  Recovering the correct context
+and interpretation of these verses doesn't destroy the doctrine of the
 Degrees of Glory, but it does return a correct understanding to the writings of
 Paul for Latter-day Saints.
 
@@ -169,5 +194,4 @@ teachings on the resurrection in 1 Corinthians.
 
   [two]: /2013/01/24/scripture-mastery-nt-14/
   [posts]: /2013/01/28/scripture-mastery-nt-15/
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/
-    "Scripture Mastery: New Testament"
+  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/ "Scripture Mastery: New Testament"

@@ -6,7 +6,7 @@ Slug: about
 My name is Tom. When I started school and discovered things like
 bulletin boards and forums (wow, I'm getting old now!) I couldn't think
 of any cool username, so I decided to capitalize on that. Thus I am
-NoCoolName\_Tom.<!--more-->
+NoCoolName\_Tom.
 
 This is my
 kinda-secret-but-not-so-secret-that-I'm-going-to-be-neurotic-about-it

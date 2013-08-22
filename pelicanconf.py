@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'NoCoolName Tom'
+AUTHOR_EMAIL = u'nocoolnametom@gmail.com'
 SITENAME = u'NoCoolName Blog'
 SITEURL = 'http://dev.blog.nocoolnametom.com'
 
@@ -27,3 +28,9 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+MD_EXTENSIONS = ('admonition','extra','headerid','sane_lists')
+
+TYPOGRIFY = true
+
+PLUGINS = ['pelican.plugins.gravatar',]

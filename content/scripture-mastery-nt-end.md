@@ -592,5 +592,5 @@ of scriptures for the Jewish people, and as such it should be called the
 Hebrew Bible.  So for those who've been happy with this series, there will be
 more eventually!  Thank you for reading.
 
-  [This is from the old set]: /2013/01/11/scripture-mastery-nt-10/ "John 17:3"
-  [See the post]: /2013/02/21/scripture-mastery-nt-22/ "James 1:5"
+  [This is from the old set]: |filename|scripture-mastery-nt-10.md "John 17:3"
+  [See the post]: |filename|scripture-mastery-nt-22.md "James 1:5"

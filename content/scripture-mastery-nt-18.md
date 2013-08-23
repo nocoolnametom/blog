@@ -12,11 +12,12 @@ Slug: scripture-mastery-nt-18
 >
 > **KJV:** <span>1</span> Now we beseech you, brethren, by the coming of
 > our >  Lord Jesus Christ, and by our gathering together unto him, >  <span>2</span> That ye be not soon shaken in mind, or be troubled, >  neither by spirit, nor by word, nor by letter as from us, as that >  the day of Christ is at hand. >  <span>3</span> Let no man deceive you by any means: for that day >  shall not come, except there come a falling away first, and that man >  of sin be revealed, the son of perdition;<!--more-->
->
-> <span style="font-size: x-small;">My translations are purposefully
-> stretched >  and should not be viewed as more accurate than the KJV translation
-> unless I >  say so in the post.  I'm trying to show the range lying between the
-> original >  Greek text and the English.</span>
+
+!!! note
+    > <span style="font-size: x-small;">My translations are purposefully
+    > stretched and should not be viewed as more accurate than the KJV translation
+    > unless I say so in the post.  I'm trying to show the range lying between the
+    > original Greek text and the English.</span>
 
 Did Paul Write These Scripture Mastery Verses to the Thessalonians?
 -------------------------------------------------------------------
@@ -200,5 +201,4 @@ the letter does, too.
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/
-    "Scripture Mastery: New Testament"
+  [See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

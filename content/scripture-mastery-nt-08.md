@@ -19,17 +19,12 @@ Slug: scripture-mastery-nt-08
 > unless I >  say so in the post.  I'm trying to show the range lying between the
 > original >  Greek text and the English.</span>
 
-* * * * *
-
-##### Update May 2013
-
-*This scripture has been removed by the Church Educational System from
-the Scripture Mastery list. However, it had remained within this list for
-over two decades and as such is still familiar to many graduates of the LDS
-Church's Seminary program. So I'm keeping this exploration of it online, but it
-is no longer applicable to CES.*
-
-* * * * *
+!!! update "Update May 2013"
+    This scripture has been removed by the Church Educational System from
+    the Scripture Mastery list. However, it had remained within this list for
+    over two decades and as such is still familiar to many graduates of the LDS
+    Church's Seminary program. So I'm keeping this exploration of it online, but it
+    is no longer applicable to CES.
 
 Let's discuss the general non-Mormon view on this scripture first, and
 then we'll get to how this scripture is usually applied in the LDS Church.
@@ -158,6 +153,5 @@ purpose.
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-  [here]: /2013/01/10/the-gospels/ "The Gospels"
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/
-    "Scripture Mastery: New Testament"
+  [here]: |filename|the-gospels.md "The Gospels"
+  [See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

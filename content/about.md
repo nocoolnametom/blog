@@ -23,4 +23,4 @@ Oh, and I'm always far too wordy. I'm something of a [Polonius][] in
 that regard: "brevity is the soul of wit". I've tried to tone it down in
 the past, but I'd rather say too much than too little.
 
-  [Polonius]: http://en.wikipedia.org/wiki/Polonius
+[Polonius]: http://en.wikipedia.org/wiki/Polonius

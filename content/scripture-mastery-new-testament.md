@@ -8,12 +8,8 @@ project for the Christian New Testament.  The project is an attempt to
 study the 25 scriptures the LDS Church Educational System expects high
 school students to memorize from the New Testament.
 
-**Update May 2013:** The Church Educational System revised the lists of
-Scripture Mastery recently and this new list removed a number of the old
-scriptures, altered the extent of a couple, and added a number of new
-selections.  The following list has been revised with the new
-scriptures.  I'll be writing posts for those as I can, but this was
-quite the unexpected change and I don't have much prepared yet about it.
+!!! note "Update May 2013"
+    The Church Educational System revised the lists of Scripture Mastery recently and this new list removed a number of the old scriptures, altered the extent of a couple, and added a number of new selections.  The following list has been revised with the new scriptures.  I'll be writing posts for those as I can, but this was quite the unexpected change and I don't have much prepared yet about it.
 
 Series Description Posts
 ------------------------
@@ -50,8 +46,8 @@ Scripture Mastery Posts
 -   1 Peter 4:6
 -   [Revelation 20:12][][^2]
 
-[^1]:  *Number of verses altered*
-[^2]:  *Number of verses altered*
+[^1]:  *Number of verses altered from 2 Timothy 3:16-17*
+[^2]:  *Number of verses altered from Revelation 20:12-13*
 
 Old Pre-2013 Scripture Mastery Selections
 -----------------------------------------
@@ -75,33 +71,33 @@ Additional Posts Related to the Series
 -   [The Gospels][]
 -   [Commonly Mistaken Readings of Some New Testament Verses][]
 
-[Introduction]: /2012/12/19/scripture-mastery-nt-00/
-[Conclusion]: /2013/03/07/scripture-mastery-nt-end/
-[Matthew 5:14-16]: /2012/12/21/scripture-mastery-nt-01/
-[Matthew 16:15-19]: /2012/12/26/scripture-mastery-nt-03/
-[Luke 24:36-39]: /2012/12/31/scripture-mastery-nt-05/
-[John 3:5]: /2013/01/02/scripture-mastery-nt-06/
-[John 14:15]: /2013/01/09/scripture-mastery-nt-09/
-[John 17:3]: /2013/01/11/scripture-mastery-nt-10/
-[1 Corinthians 15:20-22]: /2013/01/24/scripture-mastery-nt-14/
-[1 Corinthians 15:40-42]: /2013/01/31/scripture-mastery-nt-16/
-[Ephesians 4:11-14]: /2013/02/04/scripture-mastery-nt-17/
-[2 Thessalonians 2:1-3]: /2013/02/07/scripture-mastery-nt-18/
-[2 Timothy 3:15-17]: /2013/02/14/scripture-mastery-nt-20/
-[James 1:5-6]: /2013/02/21/scripture-mastery-nt-22/
-[James 2:17-18]: /2013/02/25/scripture-mastery-nt-23/
-[Revelation 20:12]: /2013/03/04/scripture-mastery-nt-25/
-[Matthew 6:24]: /2012/12/24/scripture-mastery-nt-02/
-[Matthew 25:40]: /2012/12/28/scripture-mastery-nt-04/
-[John 7:17]: /2013/01/04/scripture-mastery-nt-07/
-[John 10:16]: /2013/01/07/scripture-mastery-nt-08/
-[Acts 7:55-56]: /2013/01/14/scripture-mastery-nt-11/
-[Romans 1:16]: /2013/01/17/scripture-mastery-nt-12/
-[1 Corinthians 10:13]: /2013/01/21/scripture-mastery-nt-13/
-[1 Corinthians 15:29]: /2013/01/28/scripture-mastery-nt-15/
-[1 Timothy 3:1-5]: /2013/02/11/scripture-mastery-nt-19/
-[Hebrews 5:4]: /2013/02/18/scripture-mastery-nt-21/
-[Revelation 14:6-7]: /2013/02/28/scripture-mastery-nt-24/
-[The Christmas Stories]: /2012/12/23/the-christmas-stories/
-[The Gospels]: /2013/01/10/the-gospels/
-[Commonly Mistaken Readings of Some New Testament Verses]: /2013/02/11/ever-learning/
+[Introduction]: |filename|scripture-mastery-nt-00.md
+[Conclusion]: |filename|scripture-mastery-nt-end.md
+[Matthew 5:14-16]: |filename|scripture-mastery-nt-01.md
+[Matthew 16:15-19]: |filename|scripture-mastery-nt-03.md
+[Luke 24:36-39]: |filename|scripture-mastery-nt-05.md
+[John 3:5]: |filename|scripture-mastery-nt-06.md
+[John 14:15]: |filename|scripture-mastery-nt-09.md
+[John 17:3]: |filename|scripture-mastery-nt-10.md
+[1 Corinthians 15:20-22]: |filename|scripture-mastery-nt-14.md
+[1 Corinthians 15:40-42]: |filename|scripture-mastery-nt-16.md
+[Ephesians 4:11-14]: |filename|scripture-mastery-nt-17.md
+[2 Thessalonians 2:1-3]: |filename|scripture-mastery-nt-18.md
+[2 Timothy 3:15-17]: |filename|scripture-mastery-nt-20.md
+[James 1:5-6]: |filename|scripture-mastery-nt-22.md
+[James 2:17-18]: |filename|scripture-mastery-nt-23.md
+[Revelation 20:12]: |filename|scripture-mastery-nt-25.md
+[Matthew 6:24]: |filename|scripture-mastery-nt-02.md
+[Matthew 25:40]: |filename|scripture-mastery-nt-04.md
+[John 7:17]: |filename|scripture-mastery-nt-07.md
+[John 10:16]: |filename|scripture-mastery-nt-08.md
+[Acts 7:55-56]: |filename|scripture-mastery-nt-11.md
+[Romans 1:16]: |filename|scripture-mastery-nt-12.md
+[1 Corinthians 10:13]: |filename|scripture-mastery-nt-13.md
+[1 Corinthians 15:29]: |filename|scripture-mastery-nt-15.md
+[1 Timothy 3:1-5]: |filename|scripture-mastery-nt-19.md
+[Hebrews 5:4]: |filename|scripture-mastery-nt-21.md
+[Revelation 14:6-7]: |filename|scripture-mastery-nt-24.md
+[The Christmas Stories]: |filename|the-christmas-stories.md
+[The Gospels]: |filename|the-gospels.md
+[Commonly Mistaken Readings of Some New Testament Verses]: |filename|ever-learning.md

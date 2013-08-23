@@ -31,11 +31,12 @@ Slug: scripture-mastery-nt-16
 >  another star in glory.
 >  <span>42</span> So also is the resurrection of the dead. It is sown
 >  in corruption; it is raised in incorruption.
->
-> <span style="font-size: x-small;">My translations are purposefully stretched
->  and should not be viewed as more accurate than the KJV translation unless I
->  say so in the post.  I'm trying to show the range lying between the original
->  Greek text and the English.</span>
+
+!!! note
+    > <span style="font-size: x-small;">My translations are purposefully
+    > stretched and should not be viewed as more accurate than the KJV translation
+    > unless I say so in the post.  I'm trying to show the range lying between the
+    > original Greek text and the English.</span>
 
 Yet Again In the Same Chapter
 -----------------------------
@@ -192,6 +193,6 @@ teachings on the resurrection in 1 Corinthians.
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-  [two]: /2013/01/24/scripture-mastery-nt-14/
-  [posts]: /2013/01/28/scripture-mastery-nt-15/
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/ "Scripture Mastery: New Testament"
+  [two]: |filename|scripture-mastery-nt-14.md
+  [posts]: |filename|scripture-mastery-nt-15.md
+  [See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

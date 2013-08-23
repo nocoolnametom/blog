@@ -12,29 +12,29 @@ Slug: scripture-mastery-nt-10
 >
 > **KJV:** And this is life eternal, that they might know thee the only
 > true >  God, and Jesus Christ, whom thou hast sent.<!--more-->
->
-> <span style="font-size: x-small;">My translations are purposefully
-> stretched >  and should not be viewed as more accurate than the KJV translation
-> unless I >  say so in the post.  I'm trying to show the range lying between the
-> original >  Greek text and the English.</span>
 
-A Quick Note
-------------
+!!! note
+    > <span style="font-size: x-small;">My translations are purposefully
+    > stretched and should not be viewed as more accurate than the KJV translation
+    > unless I say so in the post.  I'm trying to show the range lying between the
+    > original Greek text and the English.</span>
 
-> It's a lot of fun to write these posts, but I want to do even better.
->  So I'm >  slowing down the pace in order to give each individual post some time
-> to >  hopefully spread through the Internet.  A new Scripture Mastery post
-> should >  appear every Monday and every Thursday.  I'm asking anyone who has
-> been >  enjoying this series to please comment, share/post links, ask
-> questions, post >  rebuttals, and what have you.  I'm relatively confident in what I'm
-> doing, >  but I've already been able to find and fix some problems in previous
-> posts >  due to people getting involved.  Share your experiences in Seminary
-> or Sunday >  School about these scriptures.  Ask questions about other areas and >  scriptures (I can only really answer translation questions about the
-> New >  Testament personally, though I feel rather confident in my knowledge
-> of the >  "Old Testament", better called the Hebrew Bible, too).  And if
-> you're >  enjoying this but don't really want to do anything grand, please just
-> drop a >  quick note to say so.  Just a quick "Thanks" or "Cool beans" really
-> makes my >  day.  Thanks!  Now onto the post!
+!!! note "A Quick Note"
+    > It's a lot of fun to write these posts, but I want to do even better.
+    >  So I'm slowing down the pace in order to give each individual post some time
+    > to hopefully spread through the Internet.  A new Scripture Mastery post
+    > should appear every Monday and every Thursday.  I'm asking anyone who has
+    > been enjoying this series to please comment, share/post links, ask
+    > questions, post rebuttals, and what have you.  I'm relatively confident in what I'm
+    > doing, but I've already been able to find and fix some problems in previous
+    > posts due to people getting involved.  Share your experiences in Seminary
+    > or Sunday School about these scriptures.  Ask questions about other areas and
+    > scriptures (I can only really answer translation questions about the
+    > New Testament personally, though I feel rather confident in my knowledge
+    > of the "Old Testament", better called the Hebrew Bible, too).  And if
+    > you're enjoying this but don't really want to do anything grand, please just
+    > drop a quick note to say so.  Just a quick "Thanks" or "Cool beans" really
+    > makes my day.  Thanks!  Now onto the post!
 
 The Death of Jesus in John's Gospel
 -----------------------------------
@@ -198,7 +198,5 @@ actually heretical for traditional Christians.
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-  [post about the differences of the Gospels]: /2013/01/10/the-gospels/
-    "The Gospels"
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/
-    "Scripture Mastery: New Testament"
+  [post about the differences of the Gospels]: |filename|the-gospels.md "The Gospels"
+  [See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

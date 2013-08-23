@@ -13,23 +13,19 @@ Slug: scripture-mastery-nt-02
 >
 > **KJV:** No man can serve two masters: for either he will hate the
 > one, and >  love the other; or else he will hold to the one, and despise the >  other. Ye cannot serve God and mammon.
->
-> <span style="font-size: x-small;">My translations are purposefully
-> stretched >  and should not be viewed as more accurate than the KJV translation
-> unless I >  say so in the post.  I'm trying to show the range lying between the
-> original >  Greek text and the English.</span>
 
-* * * * *
+!!! note
+    > <span style="font-size: x-small;">My translations are purposefully
+    > stretched and should not be viewed as more accurate than the KJV translation
+    > unless I say so in the post.  I'm trying to show the range lying between the
+    > original Greek text and the English.</span>
 
-##### Update May 2013
-
-*This scripture has been removed by the Church Educational System from
-the Scripture Mastery list. However, it had remained within this list for
-over two decades and as such is still familiar to many graduates of the LDS
-Church's Seminary program. So I'm keeping this exploration of it online, but it
-is no longer applicable to CES.*
-
-* * * * *
+!!! update "Update May 2013"
+    This scripture has been removed by the Church Educational System from
+    the Scripture Mastery list. However, it had remained within this list for
+    over two decades and as such is still familiar to many graduates of the LDS
+    Church's Seminary program. So I'm keeping this exploration of it online, but it
+    is no longer applicable to CES.
 
 Ah yes, God and Mammon.  Can't serve both.  It's a *very* Matthean
 approach, as the author of Matthew is very much concerned with issues of serving God
@@ -161,5 +157,4 @@ only way to honestly serve God.
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/
-    "Scripture Mastery: New Testament"
+  [See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

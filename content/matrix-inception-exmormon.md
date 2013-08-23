@@ -7,7 +7,11 @@ Slug: matrix-inception-exmormon
 My Experience
 -------------
 
-<span class="alignright w300" markdown="1"> [![A classic case of Liahona vs Iron rod.][]][http://exceedinglycurious.com/2010/08/02/ah-the-up-turned-nose/] </span>
+<span class="alignright w300">
+![A classic case of Liahona vs Iron rod.][][^1]
+</span>
+
+[^1]: [Image Source](http://exceedinglycurious.com/2010/08/02/ah-the-up-turned-nos)
 
 When I was growing up in the Church, long before my crisis of faith and eventually
 admitting I was an Exmormon, I discovered the famous
@@ -22,7 +26,9 @@ because of its usefulness in providing a shorthand in discussions. "Liahona" may
 fully describe a person, but it describes enough to give a rough picture. The
 same can be said for "Iron Rod".
 
-<span class="alignleft w300" markdown="1"> ![LDS Chapel][] </span>
+<span class="alignleft w300">
+![LDS Chapel][]
+</span>
 
 Since then I've found another separation used, with the same
 limitations, in regards to how Mormons approach the difficulties of their religion
@@ -35,7 +41,9 @@ to provide a negative view of another person. For this reason I try hard
 to refrain from using it, but it also continues to provide a cool short-hand in
 describing aspects of Mormon belief and approach.
 
-<span class="alignright w180" markdown="1"> [![Outer Blogness][]][http://outerblogness.org/] </span>
+<span class="alignright w180">
+![Outer Blogness][]
+</span>
 
 In recent years, for various reasons, I have decided that I no longer
 believe the truth claims of the LDS Church. I was mentally a NOM for a while,
@@ -78,7 +86,11 @@ truth claims of the LDS Church are false. I reserve the unlikely possibility tha
 given further evidence, I might have to one day change my opinion one way or
 another.)
 
-<span class="alignright w294" markdown="1"> [![I am an Exmormon][]][http://media.photobucket.com/image/recent/thehappyhummingbird/Screenshot2011-02-05at110718PM.png] </span>
+<span class="alignright w294">
+![I am an Exmormon][][^2]
+</span>
+
+[^2]: [Image Source](http://media.photobucket.com/image/recent/thehappyhummingbird/Screenshot2011-02-05at110718PM.png)
 
 One of the major helps in coming to terms with leaving the Church was
 the YouTube series ["I am an Exmormon."][] More than simply a response to the
@@ -99,7 +111,9 @@ not a product of the Church. It may have been fostered by the Church, but in
 truth the good within you is your own to take with you wherever you wish to go in
 life.
 
-<span class="alignleft w300" markdown="1"> ![Angry Family][] </span>
+<span class="alignleft w300">
+![Angry Family][]
+</span>
 
 That's what I had hoped for in the Exmormon community. And, truth be
 told, I saw it in a number of individuals. Are you hurting because you've been
@@ -116,7 +130,9 @@ friends and family who no longer believe. So, duh! Of *course* some people can't
 leave it alone. But I've found that there are some for whom this way of looking
 at "not leaving it alone" isn't the entire story.
 
-<span class="alignright w125" markdown="1"> ![The Facts][] </span>
+<span class="alignright w125">
+![The Facts][]
+</span>
 
 It's one thing to discuss facts; facts are discrete points. They can be
 debated, certainly, but on the whole they are usually not the object of
@@ -131,7 +147,9 @@ simply facts; they exist apart from any theories. They do not have to say anythi
 and of themselves. There may be some disturbing implications that extend from
 them, but they are not, in and of themselves, arguments.
 
-<span class="alignleft w298" markdown="1"> ![The Great Debate][] </span>
+<span class="alignleft w298">
+![The Great Debate][]
+</span>
 
 And yet I occasionally see people maligned and belittled who attempt to
 bring up facts that *could* be used in arguments that support Mormonism's truth
@@ -164,7 +182,9 @@ Matrix Exmormon
 >  Mormon Origins*, *The Book of Mammon*, or anything that, while it strives to
 >  be accurate, is also hard-hitting and direct about the issues.
 
-<span class="alignright w252" markdown="1"> ![The Matrix][] </span>
+<span class="alignright w252">
+![The Matrix][]
+</span>
 
 In the Matrix, humanity is enslaved in a particularly devious form of
 mind control by the machines who are exploiting them for their own purposes.
@@ -185,7 +205,9 @@ Massacre) and refuses to acknowledge fault in the actions of its members today i
 actions that are cruel and bigoted towards many of the minorities of our
 society such as homosexuals and immigrants.
 
-<span class="alignleft w300" markdown="1"> ![Matrix Pods][] </span>
+<span class="alignleft w300">
+![Matrix Pods][]
+</span>
 
 It spends billions on private ventures such as the City Creek Center and
 most of the top officials received "stipends" that mirror the salaries pulled
@@ -202,7 +224,9 @@ Salt Lake City had not actively encouraged it. The LDS Church, as an
 organization, donated very little to Prop 8 efforts, but instead asked for, and got without
 much question, the support of the members.
 
-<span class="alignright w300" markdown="1"> ![Zion Battle][] </span>
+<span class="alignright w300">
+![Zion Battle][]
+</span>
 
 In the Matrix, the freedom fighters from Zion are engaged in constant
 battle with the machines. Every soul unplugged from the prison of the Matrix
@@ -249,7 +273,9 @@ Inception Exmormon
 >  instead lays a foundation for personal introspection about the Church's
 >  claims and further discussion.
 
-<span class="alignright w300" markdown="1"> ![Inception][] </span>
+<span class="alignright w300">
+![Inception][]
+</span>
 
 The film Inception does not adapt itself as well to the struggle of how
 an Exmormon deals with the LDS Church and its members. In Inception a
@@ -265,7 +291,9 @@ lot of action shots, bizarre examples of dreamworld physics, and the threat of
 being lost in limbo. None of that really applies here, but the basic idea of
 the inception of an idea does.
 
-<span class="alignleft w300" markdown="1"> ![Inception Snow][] </span>
+<span class="alignleft w300">
+![Inception Snow][]
+</span>
 
 To an Inception Exmormon, there is no vast organized conspiracy keeping
 those who believe in the Church in line. The Church is a product of itself.
@@ -297,7 +325,9 @@ members. Emphasize grace, emphasize environmentalism, emphasis egalitarianism,
 renounce war and proclaim peace. Close the malls and open the homeless shelters.
 While not likely, change is possible.
 
-<span class="alignright w300" markdown="1"> ![Inception Pinwheel][] </span>
+<span class="alignright w300">
+![Inception Pinwheel][]
+</span>
 
 The same is true of the individual who might leave the Church. An
 Inception Exmormon understands that leaving the Church, as it currently exists,
@@ -328,7 +358,9 @@ going to accomplish anything. You cannot deal in such absolutes; telling someone
 that the Church is unethical for such-and-such just sets up a debate for why
 you're wrong.
 
-<span class="alignleft w288" markdown="1"> ![Inception Target][] </span>
+<span class="alignleft w288">
+![Inception Target][]
+</span>
 
 Admitting that your opinion of the Church is negative because of
 such-and-such is a way of verbally telling them that they can hold a differing
@@ -389,7 +421,9 @@ as I can keep that in mind I can tolerate Matrix Exmos. I may not like them
 much, but I cannot claim that they are wrong in their intentions.  But trust me,
 [I understand][] the pain, the guilt, the grief that LDS beliefs can cause.
 
-<span class="alignright w300" markdown="1"> ![Truce][] </span>
+<span class="alignright w300">
+![Truce][]
+</span>
 
 Obviously this distinguishing needs some help on the Matrix side. 
 I'd appreciate what I got right and what I got wrong (probably most of it);
@@ -423,5 +457,5 @@ switching back and forth?).  I'm very interested in things like that.  Are you
   [Inception Snow]: http://static.nocoolnametom.com/images/blog_content/2011/inception-snow.jpg
   [Inception Pinwheel]: http://static.nocoolnametom.com/images/blog_content/2011/inception3.jpg
   [Inception Target]: http://static.nocoolnametom.com/images/blog_content/2011/inception2.jpg
-  [I understand]: /2011/01/14/my-experience-with-pornography-recovery/
+  [I understand]: |filename|my-experience-with-pornography-recovery.md
   [Truce]: http://static.nocoolnametom.com/images/blog_content/2011/truce.jpg

@@ -12,27 +12,25 @@ Slug: scripture-mastery-nt-15
 >
 > **KJV:** Else what shall they do which are baptized for the dead, if
 > the dead >  rise not at all? why are they then baptized for the dead?<!--more-->
->
-> <span style="font-size: x-small;">Again, remember that the
-> translations I >  provide are **not** meant to be more accurate, but are >  purposefully stretched nearly to their breaking point in meaning.
->  Usually >  the KJV translation is fine and I'll tell you when it isn't.  I
-> provide these >  extreme, and admittedly somewhat incorrect, translations in order to
-> give a >  sense of the range of meaning of the underlying words so that you can
-> get a >  feel for the "flavor" of the words underlying the English text.  So
-> for >  instance, while I say "above the dead" here and that is technically
-> valid, it >  is almost certainly not correct and the KJV "for" is the most likely >  intention.</span>
 
-* * * * *
+!!! note
+    > <span style="font-size: x-small;">Again, remember that the
+    > translations I provide are **not** meant to be more accurate, but are
+    >  purposefully stretched nearly to their breaking point in meaning.
+    >  Usually the KJV translation is fine and I'll tell you when it isn't.  I
+    > provide these extreme, and admittedly somewhat incorrect, translations in order to
+    > give a sense of the range of meaning of the underlying words so that you can
+    > get a feel for the "flavor" of the words underlying the English text.  So
+    > for instance, while I say "above the dead" here and that is technically
+    > valid, it is almost certainly not correct and the KJV "for" is the most likely
+    > intention.</span>
 
-##### Update May 2013
-
-*This scripture has been removed by the Church Educational System from
-the Scripture Mastery list. However, it had remained within this list for
-over two decades and as such is still familiar to many graduates of the LDS
-Church's Seminary program. So I'm keeping this exploration of it online, but it
-is no longer applicable to CES.*
-
-* * * * *
+!!! update "Update May 2013"
+    This scripture has been removed by the Church Educational System from
+    the Scripture Mastery list. However, it had remained within this list for
+    over two decades and as such is still familiar to many graduates of the LDS
+    Church's Seminary program. So I'm keeping this exploration of it online, but it
+    is no longer applicable to CES.
 
 We're In the Same Chapter As Before
 -----------------------------------
@@ -138,8 +136,6 @@ know about.
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-  [the previous post]: /2013/01/24/scripture-mastery-nt-14/
-  [next post]: /2013/01/31/scripture-mastery-nt-16/
-    "1 Corinthians 15:40-42"
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/
-    "Scripture Mastery: New Testament"
+  [the previous post]: |filename|scripture-mastery-nt-14.md "1 Corinthians 15:20-22"
+  [next post]: |filename|scripture-mastery-nt-16.md "1 Corinthians 15:40-42"
+  [See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

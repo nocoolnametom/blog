@@ -4,3 +4,4 @@ dev_output/
 published_output/
 __pycache__/
 *.pyc
+*.pid

@@ -42,11 +42,12 @@ Slug: scripture-mastery-nt-19
 >  than lovers of God;
 >  <span>5</span> Having a form of godliness, but denying the power
 >  thereof: from such turn away.
->
-> <span style="font-size: x-small;">My translations are purposefully stretched
->  and should not be viewed as more accurate than the KJV translation unless I
->  say so in the post.  I'm trying to show the range lying between the original
->  Greek text and the English.</span>
+
+!!! note
+    > <span style="font-size: x-small;">My translations are purposefully
+    > stretched and should not be viewed as more accurate than the KJV translation
+    > unless I say so in the post.  I'm trying to show the range lying between the
+    > original Greek text and the English.</span>
 
 !!! update "Update May 2013"
     This scripture has been removed by the Church Educational System from
@@ -195,6 +196,6 @@ they want to keep it in Scripture Mastery I say more power to them.
 > [See other posts in my Scripture Mastery New Testament Series][]
 
 [official LDS Church Institute manual]: http://www.lds.org/manual/the-life-and-teachings-of-jesus-and-his-apostles/section-10-pauls-witness-to-priesthood-leaders/chapter-45-i-have-fought-a-good-fight-i-have-finished-my-course-i-have-kept-the-faith?lang=eng "The Life and Teachings of Jesus and his Apostles"
-[that will be its own post]: /2013/02/11/ever-learning/ "“Ever Learning, and Never Able to Come to a Knowledge of the Truth” "
-[See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/ "Scripture Mastery: New Testament"
+[that will be its own post]: |filename|ever-learning.md "“Ever Learning, and Never Able to Come to a Knowledge of the Truth” "
+[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.html "Scripture Mastery: New Testament"
 [Spencer W. Kimball, "Voices of the Past, of the Present, of the Future", April 1971 General Conference]: http://www.lds.org/ensign/1971/06/voices-of-the-past-of-the-present-of-the-future?lang=eng "Voices of the Past, of the Present, of the Future"

@@ -12,23 +12,19 @@ Slug: scripture-mastery-nt-13
 >
 > **KJV:** There hath no temptation taken you but such as is common to
 > man: but >  God is faithful, who will not suffer you to be tempted above that ye >  are able; but will with the temptation also make a way to escape, >  that ye may be able to bear it.<!--more-->
->
-> <span style="font-size: x-small;">My translations are purposefully
-> stretched >  and should not be viewed as more accurate than the KJV translation
-> unless I >  say so in the post.  I'm trying to show the range lying between the
-> original >  Greek text and the English.</span>
 
-* * * * *
+!!! note
+    > <span style="font-size: x-small;">My translations are purposefully
+    > stretched and should not be viewed as more accurate than the KJV translation
+    > unless I say so in the post.  I'm trying to show the range lying between the
+    > original Greek text and the English.</span>
 
-##### Update May 2013
-
-*This scripture has been removed by the Church Educational System from
-the Scripture Mastery list. However, it had remained within this list for
-over two decades and as such is still familiar to many graduates of the LDS
-Church's Seminary program. So I'm keeping this exploration of it online, but it
-is no longer applicable to CES.*
-
-* * * * *
+!!! update "Update May 2013"
+    This scripture has been removed by the Church Educational System from
+    the Scripture Mastery list. However, it had remained within this list for
+    over two decades and as such is still familiar to many graduates of the LDS
+    Church's Seminary program. So I'm keeping this exploration of it online, but it
+    is no longer applicable to CES.
 
 The Letters to Corinth
 ----------------------
@@ -147,5 +143,4 @@ self-image up for being human and making mistakes.
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-  [See other posts in my Scripture Mastery New Testament Series]: /scripture-mastery-new-testament/
-    "Scripture Mastery: New Testament"
+  [See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

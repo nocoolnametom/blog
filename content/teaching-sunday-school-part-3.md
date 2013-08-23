@@ -20,7 +20,7 @@ My students think that I'm a good Mormon, but at least they know that I
 value scholarship beyond stupid LDS sources because of what I try to bring up
 each week and because of my blatant ecumenical approach. My team teachers
 think that I'm supportive of the Church because I usually avoid the few difficult
-topics that they know about.[1^]
+topics that they know about.[^1]
 
 [^1]: One exception that comes to mind: once a student in our class who enjoys
       reading obscure Mormon stuff (seriously, he brings up the Journal of

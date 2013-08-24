@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 import sys
 sys.path.insert(0, '.')
 from local import settings
+sys.path.insert(0, settings.plugins_repo_path)
 
 # This file is only used if you use `make publish` or
 # explicitly specify it as your config file.

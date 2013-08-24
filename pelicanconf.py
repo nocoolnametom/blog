@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 import sys
 sys.path.insert(0, '.')
 from local import settings
+sys.path.insert(0, settings.plugins_repo_path)
 
 AUTHOR = u'NoCoolName Tom'
 AUTHOR_EMAIL = u'nocoolnametom@gmail.com'
@@ -37,3 +38,5 @@ DEFAULT_PAGINATION = 10
 MD_EXTENSIONS = (['admonition','extra','del_ins','superscript',])
 
 TYPOGRIFY = True
+
+PLUGINS = ['gravatar','pelican_youtube','social','microdata','pelican_alias']

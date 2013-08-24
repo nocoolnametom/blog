@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from local import settings
 
 AUTHOR = u'NoCoolName Tom'
 AUTHOR_EMAIL = u'nocoolnametom@gmail.com'
 SITENAME = u'NoCoolName Blog'
-SITEURL = 'http://dev.blog.nocoolnametom.com'
+SITEURL = settings.regular_siteurl
 
 TIMEZONE = 'America/Los_Angeles'
 

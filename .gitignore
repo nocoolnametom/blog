@@ -1,4 +1,5 @@
 _site/
+local/settings.py
 output/
 dev_output/
 published_output/

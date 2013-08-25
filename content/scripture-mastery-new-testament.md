@@ -3,10 +3,7 @@ Date: 2013-01-11 13:27
 Author: nocoolnametom
 Slug: scripture-mastery-new-testament
 
-These are the posts I've made as part of my Scripture Mastery in Context
-project for the Christian New Testament.  The project is an attempt to
-study the 25 scriptures the LDS Church Educational System expects high
-school students to memorize from the New Testament.
+These are the posts I've made as part of my Scripture Mastery in Context project for the Christian New Testament.  The project is an attempt to study the 25 scriptures the LDS Church Educational System expects high school students to memorize from the New Testament.
 
 !!! note "Update May 2013"
     The Church Educational System revised the lists of Scripture Mastery recently and this new list removed a number of the old scriptures, altered the extent of a couple, and added a number of new selections.  The following list has been revised with the new scriptures.  I'll be writing posts for those as I can, but this was quite the unexpected change and I don't have much prepared yet about it.

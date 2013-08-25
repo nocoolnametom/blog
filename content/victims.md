@@ -11,28 +11,28 @@ As with many great posts on the Bloggernacle, even out here in Outer Blogness, l
 
 ![img][0]
 <div class="image_caption" style="padding-top:0;margin-top:0;">
-<em>Spike and Angel, Vampires with Soul(s)</em>
+  <em>Spike and Angel, Vampires with Soul(s)</em>
 </div>
 
 In the "Buffyverse" vampires are demons who inhabit the bodies of humans.  When a vampire is created, the demon destroys the soul of the human and the resulting creature is a monster of pure evil.  Vampires don't just kill: they revel in it. They enjoy evil.  And vampires are stronger, faster, and all-around better than most humans, so they're dang good at rape, murder, and destruction.  Angel was, for decades after his being sired, one of the deadliest vampires of Europe until a gypsy curse "ensouled" him as punishment for his murders.  With a soul, Angel now had the capacity for goodness and the years of death and torture he had caused haunted him for yet further decades.  Spike was a vampire created by one of Angel's sires, and the two had actually been compatriots in chaos for a while in the late 19th Century.  In the course of *Buffy the Vampire Slayer* Spike obtained a soul for himself, and while not nearly as haunted as Angel was, Spike also feels a deep responsibility for his actions in the past.
 
 ![img][1]
 <div class="image_caption" style="padding-top:0;margin-top:0;">
-<em>It's the Odd Couple!</em>
+  <em>It's the Odd Couple!</em>
 </div>
 
 In the season 5 episode "Damage", some of the events of the now-cancelled *Buffy* have dangerous ramifications in *Angel* (and it's definitely one of the most twisted episodes of what is already a darker series than *Buffy*).  A girl named Dana has been a resident of a psychiatric ward for years after she was abused by a serial killer that killed her family in front of her when she was a little girl before she was finally found by authorities.  Because of actions that took place at the series finale of *Buffy the Vampire Slayer*, Dana has become imbued with the powers of a Slayer.  In other words, think superpowers: Slayers are a special type of humans mystically empowered to be able to fight vampires.  She's supernaturally strong, supernaturally aware of her surroundings, and her untrained fighting ability is already past what most trained humans can accomplish.  Dana breaks out of the hospital she's in, very violently, and begins a deadly swath of death and bloody violence as she wanders Los Angeles looking for the man who killed her family.
 
 ![img][2]
 <div class="image_caption" style="padding-top:0;margin-top:0;">
-<em>Omigodshesoscreepy!!!!</em>
+  <em>Omigodshesoscreepy!!!!</em>
 </div>
 
 Angel and Spike are made aware of her and begin an attempt to find her.  Due to the fact that her being imbued with the power of Slayers also means that she has something of a connection to the Slayers of the past, Dana has memories of Spike, who has killed two Slayers in his pre-souled days, mixed in among her memories of being held captive by the serial killer.  Confused and thinking that Spike was her family's murderer, Dana captures him and tortures him horribly (I'm not kidding; she even cuts off his hands at one point).
 
 ![img][3]
 <div class="image_caption" style="padding-top:0;margin-top:0;">
-<em>Poor Spike is unable to play Paper, Rock, Scissors.</em>
+  <em>Poor Spike is unable to play Paper, Rock, Scissors.</em>
 </div>
 
 Angel eventually shows up and rescues them.  The episode ends with both Angel and a physically-recovering Spike (hands magically re-attached), who have a very "odd couple" friendship, sitting in Angel's office reflecting on how even though Spike wasn't actually the man who broke Dana's mind and robbed her of her childhood, the old Spike and the old Angel were the sort of monsters who could have and would have done such a thing.
@@ -52,7 +52,7 @@ Angel eventually shows up and rescues them.  The episode ends with both Angel a
 
 ![img][4]
 <div class="image_caption" style="padding-top:0;margin-top:0;">
-<em>Victims, once upon a time.</em>
+  <em>Victims, once upon a time.</em>
 </div>
 
 It's an odd and troubling reminder that while these two heroes used to be villains, even before the villainy they both used to be rather normal human men. And in fact, all of the evil vampires seen in the Buffyverse were once regular human beings before they became evil demons lusting for carnage and blood. Behind every evil vampire is a victim.

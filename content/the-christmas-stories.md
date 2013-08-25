@@ -1,7 +1,7 @@
 Title: The Christmas Stories
 Date: 2012-12-23 17:50
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Tags: bible, christmas, family, new testament
 Slug: the-christmas-stories
 

@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Luke 24:36-39
 Date: 2012-12-31 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Tags: body, jesus, new testament, resurrection, scripture mastery
 Slug: scripture-mastery-nt-05
 

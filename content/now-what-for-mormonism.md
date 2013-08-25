@@ -1,7 +1,7 @@
 Title: Now What For Mormonism?
 Date: 2012-11-07 04:42
 Author: nocoolnametom
-Category: Uncategorized
+Category: Mormonism
 Tags: america, mormon
 Slug: now-what-for-mormonism
 

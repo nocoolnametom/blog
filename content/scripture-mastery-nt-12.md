@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Romans 1:16
 Date: 2013-01-17 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-12
 
 > **Greek:**

@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Revelation 20:12-13
 Date: 2013-03-04 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-25
 
 >  **Greek:**

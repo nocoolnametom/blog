@@ -1,7 +1,7 @@
 Title: Teaching Sunday School - Beginnings
 Date: 2011-07-19 04:06
 Author: nocoolnametom
-Category: New Testament, Sunday School
+Category: Teaching Sunday School
 Slug: teaching-sunday-school-beginnings
 
 I've wanted to write this for a while. I'm not sure how interesting it will be for anyone else, but I keep wanting to tell someone how much fun I've been having teaching Sunday School, as well as rant a little bit.

@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Conclusion
 Date: 2013-03-07 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-end
 
 !!! update "Update May 2013"

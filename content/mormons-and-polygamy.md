@@ -1,7 +1,7 @@
 Title: Mormons and Polygamy
 Date: 2011-11-28 20:21
 Author: nocoolnametom
-Category: Uncategorized
+Category: Mormonism
 Tags: brigham young, joseph smith, mormon, plural marriage, polygamy, utah
 Slug: mormons-and-polygamy
 

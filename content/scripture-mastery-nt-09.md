@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - John 14:15
 Date: 2013-01-09 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-09
 
 > **Greek:**

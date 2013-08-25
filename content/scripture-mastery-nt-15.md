@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - 1 Corinthians 15:29
 Date: 2013-01-28 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-15
 
 > **Greek:**

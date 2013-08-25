@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - 1 Corinthians 10:13
 Date: 2013-01-21 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-13
 
 > **Greek:**

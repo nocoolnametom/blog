@@ -1,7 +1,7 @@
 Title: Teaching Sunday School, Part 3
 Date: 2011-08-01 17:46
 Author: nocoolnametom
-Category: New Testament, Sunday School
+Category: Teaching Sunday School
 Tags: church, mormon, sunday school, teaching
 Slug: teaching-sunday-school-part-3
 

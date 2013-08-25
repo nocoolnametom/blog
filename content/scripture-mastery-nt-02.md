@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Matthew 6:24
 Date: 2012-12-24 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Tags: mammon, matthew, new testament, scripture mastery
 Slug: scripture-mastery-nt-02
 

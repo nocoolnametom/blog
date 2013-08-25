@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - John 3:5
 Date: 2013-01-02 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Tags: baptism, jesus, new testament, scripture mastery
 Slug: scripture-mastery-nt-06
 

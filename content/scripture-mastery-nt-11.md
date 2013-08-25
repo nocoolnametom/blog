@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Acts 7:55-56
 Date: 2013-01-14 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-11
 
 > **Greek:**
@@ -68,4 +68,5 @@ To me, it seems we've already covered the authority and position of Jesus enough
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[Net Bible]: https://net.bible.org/#!bible/Psalms+110   [See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[Net Bible]: https://net.bible.org/#!bible/Psalms+110
+[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

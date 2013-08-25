@@ -1,6 +1,7 @@
 Title: About
 Date: 2011-01-14 07:09
 Author: nocoolnametom
+Category: Blog Info
 Slug: about
 
 My name is Tom. When I started school and discovered things like bulletin boards and forums (wow, I'm getting old now!) I couldn't think of any cool username, so I decided to capitalize on that. Thus I am NoCoolName\_Tom.

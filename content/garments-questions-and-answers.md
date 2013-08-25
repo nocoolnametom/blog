@@ -1,7 +1,7 @@
 Title: Questions and Answers about Garments from a Previous Distribution Center Employee
 Date: 2011-09-19 21:46
 Author: nocoolnametom
-Category: Uncategorized
+Category: Mormonism
 Tags: distribution center, garments, mormon, temple clothing
 Slug: garments-questions-and-answers
 

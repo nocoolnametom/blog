@@ -1,7 +1,7 @@
 Title: "Ever Learning, and Never Able to Come to a Knowledge of the Truth" Commonly Mistaken Readings of New Testament Verses
 Date: 2013-02-11 05:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: ever-learning
 
 Luke 2:14 - Goodwill(ed) Men

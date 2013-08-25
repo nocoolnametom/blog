@@ -15,6 +15,8 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
+HTML_LANG = 'en'
+
 THEME = "built-texts"
 
 # Feed generation is usually not desired when developing
@@ -23,14 +25,29 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
+LINKS =  (('My Technical Blog', 'http://blog.tomdoggett.net/'),
+          ('My Boring Home Page', 'http://tomdoggett.net/'),
+          ('LDS Subreddit', 'http://latterdaysaints.reddit.com'),
+          ('Exmormon Subreddit', 'http://exmormon.reddit.com'),
           )
 
 # Social widget
-SOCIAL = (('NoCoolName_Tom', 'http://gravatar.com/nocoolnametom'),
+SOCIAL = (('Google+', 'https://plus.google.com/101615050717338574454'),
+          ('Facebook', 'https://www.facebook.com/nocoolnametom'),
+          ('Goodreads', 'http://www.goodreads.com/user/show/1508028-tom-doggett'),
+          ('Bitcoin', 'bitcoin:1HDAy5n9qf3a7BtxxGoew6NwTAJ6BcBgrB'),
           )
 
 DEFAULT_PAGINATION = 10
+
+TAG_CLOUD_STEPS = 8
+
+TAG_CLOUD_MAX_ITEMS = 100
+
+if (settings.google_analytics):
+  GOOGLE_ANALYTICS = settings.google_analytics
+
+TWITTER_USERNAME = 'NoCoolName_Tom'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -45,3 +62,9 @@ GITHUB_URL = 'http://github.com/nocoolnametom/blog'
 
 if (settings.disqus_sitename):
   DISQUS_SITENAME = settings.disqus_sitename
+
+COLOPHON = True
+
+COLOPHON_TITLE = u'Not a cool name,<br/>but at least a cool blog, right?'
+
+COLOPHON_CONTENT = u'&nbsp;'

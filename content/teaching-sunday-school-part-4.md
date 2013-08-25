@@ -1,7 +1,7 @@
 Title: Teaching Sunday School - Part 4
 Date: 2011-08-09 02:24
 Author: nocoolnametom
-Category: New Testament, Sunday School
+Category: Teaching Sunday School
 Tags: bible, church, jesus, mormon, new testament, sunday school
 Slug: teaching-sunday-school-part-4
 

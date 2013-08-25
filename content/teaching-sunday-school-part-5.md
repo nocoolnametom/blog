@@ -1,7 +1,7 @@
 Title: Teaching Sunday School - Part 5
 Date: 2011-09-07 22:42
 Author: nocoolnametom
-Category: New Testament, Sunday School
+Category: Teaching Sunday School
 Tags: faith, galatians, new testament, paul, sunday school, teaching, works
 Slug: teaching-sunday-school-part-5
 

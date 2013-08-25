@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Revelation 14:6-7
 Date: 2013-02-28 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-24
 
 >  **Greek:**

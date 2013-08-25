@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Hebrews 5:4
 Date: 2013-02-18 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-21
 
 > **Greek:**

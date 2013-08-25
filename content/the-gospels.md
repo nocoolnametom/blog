@@ -1,7 +1,7 @@
 Title: The Gospels
 Date: 2013-01-10 09:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Tags: gospels, new testament
 Slug: the-gospels
 

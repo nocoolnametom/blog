@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - James 1:5-6
 Date: 2013-02-21 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-22
 
 > **Greek:**

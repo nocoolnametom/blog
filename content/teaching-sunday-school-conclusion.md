@@ -1,7 +1,7 @@
 Title: Teaching Sunday School - Conclusion
 Date: 2012-06-13 16:57
 Author: nocoolnametom
-Category: New Testament, Sunday School
+Category: Teaching Sunday School
 Tags: king james bibles, paul, theology
 Slug: teaching-sunday-school-conclusion
 

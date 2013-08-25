@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - New Testament - Introduction
 Date: 2012-12-19 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Tags: christian, john, new testament, scripture mastery
 Slug: scripture-mastery-nt-00
 

@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Matthew 5:14-16
 Date: 2012-12-21 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Tags: matthew, new testament, scripture mastery
 Slug: scripture-mastery-nt-01
 

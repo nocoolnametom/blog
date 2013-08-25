@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - James 2:17-18
 Date: 2013-02-25 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-23
 
 > **Greek:**

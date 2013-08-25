@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Matthew 25:40
 Date: 2012-12-28 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Tags: grace and works, matthew, new testament, scripture mastery
 Slug: scripture-mastery-nt-04
 

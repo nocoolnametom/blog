@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - John 7:17
 Date: 2013-01-04 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-07
 
 > **Greek:**

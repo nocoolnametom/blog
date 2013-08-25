@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Matthew 16:15-19
 Date: 2012-12-26 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Tags: christian, matthew, mormon, new testament, paul, peter, rock, scripture mastery
 Slug: scripture-mastery-nt-03
 

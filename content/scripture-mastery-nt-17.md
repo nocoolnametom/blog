@@ -1,7 +1,7 @@
 Title: Looking at Scripture Mastery - Ephesians 4:11-14
 Date: 2013-02-04 04:00
 Author: nocoolnametom
-Category: New Testament
+Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-17
 
 > **Greek:**

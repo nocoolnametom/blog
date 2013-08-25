@@ -1,9 +1,10 @@
 Title: "Mind Your Own Business!"  My Review of John Turner's "Brigham Young: Pioneer Prophet"
 Date: 2012-09-05 06:38
 Author: nocoolnametom
-Category: Uncategorized
+Category: Mormonism
 Tags: book, brigham young, review
 Slug: brigham-young-pioneer-prophet
+Alias: /2012/09/05/brigham-young-pioneer-prophet/
 
 I need to be careful in writing this review; I've written a few reviews in the past of newly released Mormon books and after the novelty of these materials wore off I'm stuck with a permanent record on the Internet of my enthusiastic approval of what eventually was shown to be rather flawed materials. So I'm more than a little concerned that I'm more excited that I'm among the first to read and enjoy the new biography of Brigham Young than the text itself should allow, but with that explanation out of the way let me get to the enthusiastic review that I might someday regret!
 

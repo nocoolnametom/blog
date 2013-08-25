@@ -1,7 +1,3 @@
-//Redirect Scripture Mastery New Testament category listing to content page.
-RewriteEngine On    # Turn on the rewriting engine
-RewriteRule    ^/category/scripture-mastery-new-testament.html$    /scripture-mastery-new-testament.html    [NC]
-
 //Prevent viewing of .htaccess file
 <Files .htaccess>
 order allow,deny
@@ -11,8 +7,11 @@ deny from all
 //Prevent directory listings
 Options All -Indexes
 
+//Redirect Scripture Mastery New Testament category listing to content page.
+RewriteEngine On    # Turn on the rewriting engine
+RewriteRule    ^/category/scripture-mastery-new-testament.html$    /scripture-mastery-new-testament.html    [NC]
+
 //Block bad bots
-RewriteEngine On
 RewriteCond %{HTTP_USER_AGENT} ^BlackWidow [OR]
 RewriteCond %{HTTP_USER_AGENT} ^Bot\ mailto:craftbot@yahoo.com [OR]
 RewriteCond %{HTTP_USER_AGENT} ^ChinaClaw [OR]

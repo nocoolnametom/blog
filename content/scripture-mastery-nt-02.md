@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Tags: mammon, matthew, new testament, scripture mastery
 Slug: scripture-mastery-nt-02
+Alias: /2012/12/24/scripture-mastery-nt-02/
 
 > **Greek:**
 >  Οὐδεὶς δύναται δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει· οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ.
@@ -45,4 +46,4 @@ To help enforce a binary view of life as a choice between obedience to God (repr
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

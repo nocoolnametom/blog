@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Tags: baptism, jesus, new testament, scripture mastery
 Slug: scripture-mastery-nt-06
+Alias: 2013/01/02/scripture-mastery-nt-06/
 
 > **Greek:**
 >  ἀπεκρίθη Ἰησοῦς· ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἐξ ὕδατος καὶ πνεύματος, οὐ δύναται εἰσελθεῖν εἰς τὴν βασιλείαν τῶν οὐρανῶν.
@@ -46,4 +47,4 @@ This scripture was probably chosen to give LDS youth a way to answer the questio
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

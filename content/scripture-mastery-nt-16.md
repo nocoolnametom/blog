@@ -3,6 +3,7 @@ Date: 2013-01-31 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-16
+Alias: /2013/01/31/scripture-mastery-nt-16/
 
 > **Greek:**
 >  <span>40</span> καὶ σώματα ἐπουράνια, καὶ σώματα ἐπίγεια· ἀλλὰ ἑτέρα μὲν ἡ τῶν ἐπουρανίων δόξα, ἑτέρα δὲ ἡ τῶν ἐπιγείων.
@@ -79,4 +80,4 @@ This scripture was chosen so that LDS youth would have a biblical source to clai
 
 [two]: |filename|scripture-mastery-nt-14.md
 [posts]: |filename|scripture-mastery-nt-15.md
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

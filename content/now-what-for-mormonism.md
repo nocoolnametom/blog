@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Mormonism
 Tags: america, mormon
 Slug: now-what-for-mormonism
+Alias: /2012/11/07/now-what-for-mormonism/
 
 So, now that the "Mormon Moment" is over (yes, it's over as of last night; the only thing that might keep it going is the continued popularity of the Broadway musical), I wonder what the result is going to be for Mormonism.
 

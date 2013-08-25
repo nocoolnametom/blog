@@ -3,6 +3,7 @@ Date: 2013-03-04 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-25
+Alias: /2013/03/04/scripture-mastery-nt-25/
 
 >  **Greek:**
 >  <span>12</span> καὶ εἶδον τοὺς νεκρούς, τοὺς μεγάλους καὶ τοὺς μικρούς, ἑστῶτας ἐνώπιον τοῦ θρόνου, καὶ βιβλία ἠνοίχθησαν· καὶ ἄλλο βιβλίον ἠνοίχθη, ὅ ἐστιν τῆς ζωῆς· καὶ ἐκρίθησαν οἱ νεκροὶ ἐκ τῶν γεγραμμένων ἐν τοῖς βιβλίοις κατὰ τὰ ἔργα αὐτῶν.
@@ -75,4 +76,4 @@ I think this scripture was chosen for two reasons. First, it might be a good opp
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

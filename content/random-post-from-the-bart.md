@@ -3,6 +3,7 @@ Date: 2013-01-11 08:13
 Author: nocoolnametom
 Category: Uncategorized
 Slug: random-post-from-the-bart
+Alias: /2013/01/11/random-post-from-the-bart/
 
 Just a quick thought: sometimes when I read different blogs in the Bloggernacle and Outer Blogness I enjoy knowing about the individuals who write what I'm reading.  These posts don't just appear on the Internet fully formed from chaos, but are written by real people living real lives.
 

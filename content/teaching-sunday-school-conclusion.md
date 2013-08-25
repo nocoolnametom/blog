@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Teaching Sunday School
 Tags: king james bibles, paul, theology
 Slug: teaching-sunday-school-conclusion
+Alias: /2012/06/13/teaching-sunday-school-conclusion/
 
 So, it's been over half a year since I followed up on my experience teaching Sunday School. Let me quickly re-cap the rest of the year.
 

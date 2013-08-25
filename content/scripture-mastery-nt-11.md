@@ -3,6 +3,7 @@ Date: 2013-01-14 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-11
+Alias: /2013/01/14/scripture-mastery-nt-11/
 
 > **Greek:**
 >  <span>55</span> ὑπάρχων δὲ πλήρης πνεύματος ἁγίου ἀτενίσας εἰς τὸν οὐρανὸν εἶδεν δόξαν θεοῦ καὶ Ἰησοῦν ἑστῶτα ἐκ δεξιῶν τοῦ θεοῦ,
@@ -69,4 +70,4 @@ To me, it seems we've already covered the authority and position of Jesus enough
 > [See other posts in my Scripture Mastery New Testament Series][]
 
 [Net Bible]: https://net.bible.org/#!bible/Psalms+110
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

@@ -1,5 +1,4 @@
 Title: About
-Date: 2011-01-14 07:09
 Author: nocoolnametom
 Category: Blog Info
 Slug: about

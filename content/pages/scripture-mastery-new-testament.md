@@ -5,6 +5,7 @@ Slug: scripture-mastery-new-testament
 Category: Scripture Mastery: New Testament
 URL: scripture-mastery-new-testament.html
 save_as: scripture-mastery-new-testament.html
+Status: hidden
 
 These are the posts I've made as part of my Scripture Mastery in Context project for the Christian New Testament.  The project is an attempt to study the 25 scriptures the LDS Church Educational System expects high school students to memorize from the New Testament.
 
@@ -71,33 +72,33 @@ Additional Posts Related to the Series
 -   [The Gospels][]
 -   [Commonly Mistaken Readings of Some New Testament Verses][]
 
-[Introduction]: |filename|scripture-mastery-nt-00.md
-[Conclusion]: |filename|scripture-mastery-nt-end.md
-[Matthew 5:14-16]: |filename|scripture-mastery-nt-01.md
-[Matthew 16:15-19]: |filename|scripture-mastery-nt-03.md
-[Luke 24:36-39]: |filename|scripture-mastery-nt-05.md
-[John 3:5]: |filename|scripture-mastery-nt-06.md
-[John 14:15]: |filename|scripture-mastery-nt-09.md
-[John 17:3]: |filename|scripture-mastery-nt-10.md
-[1 Corinthians 15:20-22]: |filename|scripture-mastery-nt-14.md
-[1 Corinthians 15:40-42]: |filename|scripture-mastery-nt-16.md
-[Ephesians 4:11-14]: |filename|scripture-mastery-nt-17.md
-[2 Thessalonians 2:1-3]: |filename|scripture-mastery-nt-18.md
-[2 Timothy 3:15-17]: |filename|scripture-mastery-nt-20.md
-[James 1:5-6]: |filename|scripture-mastery-nt-22.md
-[James 2:17-18]: |filename|scripture-mastery-nt-23.md
-[Revelation 20:12]: |filename|scripture-mastery-nt-25.md
-[Matthew 6:24]: |filename|scripture-mastery-nt-02.md
-[Matthew 25:40]: |filename|scripture-mastery-nt-04.md
-[John 7:17]: |filename|scripture-mastery-nt-07.md
-[John 10:16]: |filename|scripture-mastery-nt-08.md
-[Acts 7:55-56]: |filename|scripture-mastery-nt-11.md
-[Romans 1:16]: |filename|scripture-mastery-nt-12.md
-[1 Corinthians 10:13]: |filename|scripture-mastery-nt-13.md
-[1 Corinthians 15:29]: |filename|scripture-mastery-nt-15.md
-[1 Timothy 3:1-5]: |filename|scripture-mastery-nt-19.md
-[Hebrews 5:4]: |filename|scripture-mastery-nt-21.md
-[Revelation 14:6-7]: |filename|scripture-mastery-nt-24.md
-[The Christmas Stories]: |filename|the-christmas-stories.md
-[The Gospels]: |filename|the-gospels.md
-[Commonly Mistaken Readings of Some New Testament Verses]: |filename|ever-learning.md
+[Introduction]: |filename|../scripture-mastery-nt-00.md
+[Conclusion]: |filename|../scripture-mastery-nt-end.md
+[Matthew 5:14-16]: |filename|../scripture-mastery-nt-01.md
+[Matthew 16:15-19]: |filename|../scripture-mastery-nt-03.md
+[Luke 24:36-39]: |filename|../scripture-mastery-nt-05.md
+[John 3:5]: |filename|../scripture-mastery-nt-06.md
+[John 14:15]: |filename|../scripture-mastery-nt-09.md
+[John 17:3]: |filename|../scripture-mastery-nt-10.md
+[1 Corinthians 15:20-22]: |filename|../scripture-mastery-nt-14.md
+[1 Corinthians 15:40-42]: |filename|../scripture-mastery-nt-16.md
+[Ephesians 4:11-14]: |filename|../scripture-mastery-nt-17.md
+[2 Thessalonians 2:1-3]: |filename|../scripture-mastery-nt-18.md
+[2 Timothy 3:15-17]: |filename|../scripture-mastery-nt-20.md
+[James 1:5-6]: |filename|../scripture-mastery-nt-22.md
+[James 2:17-18]: |filename|../scripture-mastery-nt-23.md
+[Revelation 20:12]: |filename|../scripture-mastery-nt-25.md
+[Matthew 6:24]: |filename|../scripture-mastery-nt-02.md
+[Matthew 25:40]: |filename|../scripture-mastery-nt-04.md
+[John 7:17]: |filename|../scripture-mastery-nt-07.md
+[John 10:16]: |filename|../scripture-mastery-nt-08.md
+[Acts 7:55-56]: |filename|../scripture-mastery-nt-11.md
+[Romans 1:16]: |filename|../scripture-mastery-nt-12.md
+[1 Corinthians 10:13]: |filename|../scripture-mastery-nt-13.md
+[1 Corinthians 15:29]: |filename|../scripture-mastery-nt-15.md
+[1 Timothy 3:1-5]: |filename|../scripture-mastery-nt-19.md
+[Hebrews 5:4]: |filename|../scripture-mastery-nt-21.md
+[Revelation 14:6-7]: |filename|../scripture-mastery-nt-24.md
+[The Christmas Stories]: |filename|../the-christmas-stories.md
+[The Gospels]: |filename|../the-gospels.md
+[Commonly Mistaken Readings of Some New Testament Verses]: |filename|../ever-learning.md

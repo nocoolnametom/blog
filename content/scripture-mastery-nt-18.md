@@ -3,6 +3,7 @@ Date: 2013-02-07 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-18
+Alias: /2013/02/07/scripture-mastery-nt-18/
 
 > **Greek:**
 >  <span>1</span> Ἐρωτῶμεν δὲ ὑμᾶς, ἀδελφοί, ὑπὲρ τῆς > παρουσίας τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ ἡμῶνἐπισυναγωγῆς ἐπ’ αὐτόν,
@@ -75,4 +76,4 @@ I think these verses were chosen because Mormons only care about finding Biblica
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

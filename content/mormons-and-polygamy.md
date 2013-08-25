@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Mormonism
 Tags: brigham young, joseph smith, mormon, plural marriage, polygamy, utah
 Slug: mormons-and-polygamy
+Alias: /2011/11/28/mormons-and-polygamy/
 
 So with Mitt Romney, the Book of Mormon musical, and the ["I am a Mormon"][] ad campaign (have you seen the ["I am an Ex-Mormon"][] videos?) members of the Church of Jesus Christ of Latter-day Saints are getting a lot of attention nowadays. Most people know a few things about them: generally larger families and younger marriages than the national averages, no alcohol or coffee (or tea), and so on. And of course, polygamy. Most people know that Mormons no longer practice polygamy, but few people know the details. Even Mormons only really know a few details themselves, generally speaking, though everything I'll be saying here can be easily researched.
 

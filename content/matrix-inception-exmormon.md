@@ -3,6 +3,7 @@ Date: 2011-05-03 23:44
 Author: nocoolnametom
 Category: Disaffection
 Slug: matrix-inception-exmormon
+Alias: /2011/05/03/matrix-inception-exmormon/
 
 My Experience
 -------------

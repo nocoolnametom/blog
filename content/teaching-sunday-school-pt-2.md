@@ -3,6 +3,7 @@ Date: 2011-07-25 17:09
 Author: nocoolnametom
 Category: Teaching Sunday School
 Slug: teaching-sunday-school-pt-2
+Alias: /2011/07/25/teaching-sunday-school-pt-2/
 
 Wow, I forgot that this blog was part of an aggregator (sorry, [Main Street Plaza][]). I kinda thought my words were just flying off into the private, digital realm of the Internet. Silly me, nothing on the Internet is ever private. If you're reading this, please understand that I'm pretty much approaching this as a rant flying off into *teh intarwebs*. Make of it what you will (along with the constant grammatical mistakes where my fingers fly a little bit ahead of my brain). If you have questions about my teaching Sunday School, go ahead and ask them and I answer them as best as I can.
 

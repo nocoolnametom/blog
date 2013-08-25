@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Tags: matthew, new testament, scripture mastery
 Slug: scripture-mastery-nt-01
+Alias: 2012/12/21/scripture-mastery-nt-01/
 
 > **Greek:**
 >  <span>14</span> Ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου. οὐ δύναται πόλις κρυβῆναι ἐπάνω ὄρους κειμένη·
@@ -33,4 +34,4 @@ To encourage Mormon youth to be evangelical in their faith through both actions 
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

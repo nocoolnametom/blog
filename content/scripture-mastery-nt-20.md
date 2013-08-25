@@ -3,6 +3,7 @@ Date: 2013-02-14 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-20
+Alias: /2013/02/14/scripture-mastery-nt-20/
 
 > **Greek:**
 >  <span>16</span> πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ,
@@ -45,4 +46,4 @@ I think this verse was chosen because it speaks of how works arise from the use 
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

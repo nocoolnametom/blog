@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Tags: christian, matthew, mormon, new testament, paul, peter, rock, scripture mastery
 Slug: scripture-mastery-nt-03
+Alias: /2012/12/26/scripture-mastery-nt-03/
 
 > **Greek:**
 >  <span>15</span> λέγει αὐτοῖς· ὑμεῖς δὲ τίνα με λέγετε > εἶναι;
@@ -58,4 +59,4 @@ In preparation for use of this scripture against their conception of a universal
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

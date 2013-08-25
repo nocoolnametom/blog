@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Teaching Sunday School
 Tags: bible, church, jesus, mormon, new testament, sunday school
 Slug: teaching-sunday-school-part-4
+Alias: /2011/08/09/teaching-sunday-school-part-4/
 
 Back again! I didn't teach Sunday School this week, so there's no real new updates there. When I'm not teaching I tend to take a support role; I don't appreciate when a team teacher tries to hijack my lesson, so I feel it's appropriate for me to show the same courtesy. I try to give factual information when I can, however, as well as summarizations of what the kids read.
 

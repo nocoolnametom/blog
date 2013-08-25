@@ -3,6 +3,7 @@ Date: 2013-02-25 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-23
+Alias: /2013/02/25/scripture-mastery-nt-23/
 
 > **Greek:**
 >  <span>17</span> οὕτως καὶ ἡ πίστις, ἐὰν μὴ ἔχῃ ἔργα, νεκρά ἐστιν καθ’ ἑαυτήν.
@@ -79,4 +80,4 @@ I think this scripture was chosen because it's an obvious challenge against the 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
 [Justification]: http://www.amazon.com/Justification-Gods-Pauls-Vision-ebook/dp/B002Q8HD68    "Justification"
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

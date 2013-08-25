@@ -3,6 +3,7 @@ Date: 2013-01-24 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-14
+Alias: /2013/01/24/scripture-mastery-nt-14/
 
 > **Greek:**
 >  <span>20</span> Νυνὶ δὲ Χριστὸς ἐγήγερται ἐκ νεκρῶν, ἀπαρχὴ τῶν κεκοιμημένων.
@@ -47,4 +48,4 @@ I think this verse was chosen because the Latter-day Saints make a big deal amon
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

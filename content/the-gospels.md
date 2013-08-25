@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Tags: gospels, new testament
 Slug: the-gospels
+Alias: /2013/01/10/the-gospels/
 
 There are four gospels.  Everyone knows that: Matthew, Mark, Luke, and John. However, most people have never stepped back to ask, "Why?"  Why are there four gospels?  Why these four?  What's going on here?
 

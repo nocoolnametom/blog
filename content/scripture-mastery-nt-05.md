@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Tags: body, jesus, new testament, resurrection, scripture mastery
 Slug: scripture-mastery-nt-05
+Alias: /2012/12/31/scripture-mastery-nt-05/
 
 > **Greek:**
 >  <span>36</span> Ταῦτα δὲ αὐτῶν λαλούντων αὐτὸς ἔστη ἐν μέσῳ αὐτῶν.
@@ -61,4 +62,4 @@ I think this verse's presence in the Scripture Mastery list is a relic of histor
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

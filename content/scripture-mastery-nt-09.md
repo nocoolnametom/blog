@@ -3,6 +3,7 @@ Date: 2013-01-09 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-09
+Alias: /2013/01/09/scripture-mastery-nt-09/
 
 > **Greek:**
 >  Ἐὰν ἀγαπᾶτέ με, τὰς ἐντολὰς τὰς ἐμὰς τηρήσετε·
@@ -39,4 +40,4 @@ I think this verse was chosen to try and impress upon LDS youth the importance o
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

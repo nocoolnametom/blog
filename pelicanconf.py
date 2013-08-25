@@ -19,6 +19,8 @@ HTML_LANG = 'en'
 
 THEME = "built-texts"
 
+FILES_TO_COPY = (('extra/.htaccess', '.htaccess'), ('extra/robots.txt', 'robots.txt'),)
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

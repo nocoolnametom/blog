@@ -3,6 +3,7 @@ Date: 2013-03-07 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-end
+Alias: /2013/03/07/scripture-mastery-nt-end/
 
 !!! update "Update May 2013"
      The Church Educational System has released an extensive reworking of the Scripture Mastery lists.  A welcome change from the old list, I'm going to keep my conclusions to the pre-2013 list up here.  I am pleased to note that there are four of my suggestions that are in the new lists, though with the glacial pace that the LDS Church bureaucracy takes I doubt that I had anything to do with the new selections.  It is gratifying to see these changes, though.  My concerns as listed below still hold true, however.  I've noted which scriptures appear in the new list.

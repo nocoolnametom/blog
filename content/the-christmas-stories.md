@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Tags: bible, christmas, family, new testament
 Slug: the-christmas-stories
+Alias: /2012/12/23/the-christmas-stories/
 
 Today while attending the LDS Church, my whole family was treated to a generous helping of "The Christmas Story".  You know, the one with Mary and the angel, the shepherds, the wise men, the census, and the slaughter of the innocents?  At some point during the Sacrament Meeting I just couldn't take it anymore, leaned over to my oldest daughter (Echo, 6), and whispered, "You know, even if Jesus *was* born in Bethlehem, it didn't happen the way they're talking about it."
 

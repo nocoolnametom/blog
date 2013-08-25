@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Tags: grace and works, matthew, new testament, scripture mastery
 Slug: scripture-mastery-nt-04
+Alias: /2012/12/28/scripture-mastery-nt-04/
 
 > **Greek:**
 >  καὶ ἀποκριθεὶς ὁ βασιλεὺς ἐρεῖ αὐτοῖς· ἀμὴν λέγω ὑμῖν, ἐφ’ ὅσον ἐποιήσατε ἑνὶ τούτων τῶν ἀδελφῶν μου τῶν ἐλαχίστων, ἐμοὶ ἐποιήσατε
@@ -43,4 +44,4 @@ On the surface, this scripture is a wonderful call for people to act with good a
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

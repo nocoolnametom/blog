@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Mormonism
 Tags: distribution center, garments, mormon, temple clothing
 Slug: garments-questions-and-answers
+Alias: /2011/09/19/garments-questions-and-answers/
 
 I used to work for the Church. Now, before you start imagining anything, it wasn't a very important job. I worked retail at one of the Church's now-defunct Distribution Centers; our purpose was to sell items produced by the Corporation of the Presiding Bishopric. We sold Sunday School manuals, scripture sets, Church videos and audio media, hymnals, pictures, and a host of other publications. We also sold garments.
 

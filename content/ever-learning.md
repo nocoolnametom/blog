@@ -3,6 +3,7 @@ Date: 2013-02-11 05:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: ever-learning
+Alias: /2013/02/11/ever-learning/
 
 Luke 2:14 - Goodwill(ed) Men
 =======================================

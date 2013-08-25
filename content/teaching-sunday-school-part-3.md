@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Teaching Sunday School
 Tags: church, mormon, sunday school, teaching
 Slug: teaching-sunday-school-part-3
+Alias: /2011/08/01/teaching-sunday-school-part-3/
 
 !!! note
     Again, the standard explanation: I'm not really writing these posts to be read, but more because I want to just talk. Thanks for listening; I'll try to fix the more egregious spelling/grammatical mistakes, but in the end I'm not too concerned.)

@@ -3,6 +3,7 @@ Date: 2013-01-11 04:00
 Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Slug: scripture-mastery-nt-10
+Alias: /2013/01/11/scripture-mastery-nt-10/
 
 > **Greek:**
 >  αὕτη δέ ἐστιν ἡ αἰώνιος ζωή, ἵνα γινώσκωσιν σὲ τὸν μόνον ἀληθινὸν θεὸν καὶ ὃν ἀπέστειλας Ἰησοῦν Χριστόν.
@@ -54,4 +55,4 @@ For two reasons, one good and one bad.  The first, good reason is because it is
 > [See other posts in my Scripture Mastery New Testament Series][]
 
 [post about the differences of the Gospels]: |filename|the-gospels.md "The Gospels"
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

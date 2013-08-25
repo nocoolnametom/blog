@@ -3,6 +3,7 @@ Date: 2013-04-02 05:00
 Author: nocoolnametom
 Category: Disaffection
 Slug: victims
+Alias: /2013/04/02/victims/
 
 Joss Whedon is Amazing
 ----------------------

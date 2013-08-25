@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Scripture Mastery: New Testament
 Tags: christian, john, new testament, scripture mastery
 Slug: scripture-mastery-nt-00
+Alias: /2012/12/19/scripture-mastery-nt-00/
 
 What do I mean by "looking at scripture mastery"? Let me explain the background for this project.
 
@@ -47,4 +48,4 @@ For each scripture I'm going to assume a certain level of understanding of the C
 
 > [See other posts in my Scripture Mastery New Testament Series][]
 
-[See other posts in my Scripture Mastery New Testament Series]: |filename|scripture-mastery-new-testament.md "Scripture Mastery: New Testament"
+[See other posts in my Scripture Mastery New Testament Series]: |filename|pages/scripture-mastery-new-testament.md "Scripture Mastery: New Testament"

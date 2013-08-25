@@ -4,6 +4,7 @@ Author: nocoolnametom
 Category: Teaching Sunday School
 Tags: faith, galatians, new testament, paul, sunday school, teaching, works
 Slug: teaching-sunday-school-part-5
+Alias: /2011/09/07/teaching-sunday-school-part-5/
 
 I wonder if I'll be able to put a date to when I broke the camel's back: will it be September 4, 2011? I'm probably over-reacting, but if that's so, at least I'll be happy about what I did: I got the kids some Bibles. They've always really liked my little pocket-sized KJV that I bring with me to Sunday School. They like the red letters for whenever an author has Jesus speaking. They like the size. They like the self-pronouncing names.
 

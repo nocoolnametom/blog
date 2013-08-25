@@ -40,3 +40,8 @@ MD_EXTENSIONS = (['admonition','extra','del_ins','superscript',])
 TYPOGRIFY = True
 
 PLUGINS = ['gravatar','pelican_youtube','social','microdata','pelican_alias']
+
+GITHUB_URL = 'http://github.com/nocoolnametom/blog'
+
+if (settings.disqus_sitename):
+  DISQUS_SITENAME = "nocoolnameblogdev"

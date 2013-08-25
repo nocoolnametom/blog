@@ -44,4 +44,4 @@ PLUGINS = ['gravatar','pelican_youtube','social','microdata','pelican_alias']
 GITHUB_URL = 'http://github.com/nocoolnametom/blog'
 
 if (settings.disqus_sitename):
-  DISQUS_SITENAME = "nocoolnameblogdev"
+  DISQUS_SITENAME = settings.disqus_sitename

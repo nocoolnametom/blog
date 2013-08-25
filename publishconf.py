@@ -22,6 +22,9 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
+if (settings.publish_disqus_sitename):
+  DISQUS_SITENAME = settings.publish_disqus_sitename
+
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""

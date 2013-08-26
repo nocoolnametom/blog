@@ -36,7 +36,7 @@ DEFAULT_LANG = u'en'
 
 HTML_LANG = 'en'
 
-THEME = "lannisport"
+THEME = "gum"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

@@ -27,6 +27,9 @@ if (settings.publish_disqus_sitename):
 
 if (settings.publish_google_analytics):
   GOOGLE_ANALYTICS = settings.publish_google_analytics
+  GOOGLE_ANALYTICS_CODE = settings.publish_google_analytics
+  GOOGLE_ANALYTICS_ID = settings.publish_google_analytics
+  GOOGLE_ANALYTICS_SITENAME = settings.publish_google_analytics_sitename
 
 # Following items are often useful when publishing
 

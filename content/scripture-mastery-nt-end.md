@@ -6,29 +6,29 @@ Slug: scripture-mastery-nt-end
 Alias: /2013/03/07/scripture-mastery-nt-end/
 
 !!! update "Update May 2013"
-     The Church Educational System has released an extensive reworking of the Scripture Mastery lists.  A welcome change from the old list, I'm going to keep my conclusions to the pre-2013 list up here.  I am pleased to note that there are four of my suggestions that are in the new lists, though with the glacial pace that the LDS Church bureaucracy takes I doubt that I had anything to do with the new selections.  It is gratifying to see these changes, though.  My concerns as listed below still hold true, however.  I've noted which scriptures appear in the new list.
+     The Church Educational System has released an extensive reworking of the Scripture Mastery lists.  A welcome change from the old list, I'm going to keep my conclusions to the pre-2013 list up here.  I am pleased to note that there are four of my suggestions that are in the new lists, though with the glacial pace that the LDS Church bureaucracy takes I doubt that I had anything to do with the new selections.  It is gratifying to see these changes, though.  My concerns as listed below still hold true, however.  I've noted which scriptures appear in the new list.
 
 Conclusion
 ----------
 
-So, we've gone through the 25 current scriptures (as of 2013) in the New Testament Scripture Mastery list.  We've looked at them in context and, perhaps not surprisingly, we've found that in some cases the verses were used appropriately, in most cases the scriptures were in context but the emphasis was incorrect, and in some vases the verses were simply wrong in their interpretation and context.  Also, in examining why these scriptures were chosen, a pattern has emerged: most of the scriptures were chosen pre-supposing an attack against LDS doctrine from evangelical Protestant Christians.
+So, we've gone through the 25 current scriptures (as of 2013) in the New Testament Scripture Mastery list.  We've looked at them in context and, perhaps not surprisingly, we've found that in some cases the verses were used appropriately, in most cases the scriptures were in context but the emphasis was incorrect, and in some vases the verses were simply wrong in their interpretation and context.  Also, in examining why these scriptures were chosen, a pattern has emerged: most of the scriptures were chosen pre-supposing an attack against LDS doctrine from evangelical Protestant Christians.
 
 These attacks focused on the following ideas:
 
-1.   Salvation is dependent upon our works (and faith?).  This is in opposition to what is imagined to be the doctrine of salvation by grace popular among many Protestant Christians.
+1.   Salvation is dependent upon our works (and faith?).  This is in opposition to what is imagined to be the doctrine of salvation by grace popular among many Protestant Christians.
 
 2.   Mormon doctrines of physicality, such as the idea that God the Father is embodied and that the resurrection both of Christ and of humans is physical. (Which is odd, because while Christians don't believe in an embodied Father, the resurrection stuff is orthodox doctrine.)
 
-3.   Mormon peculiarities can be found within the New Testament, such as references to the Book of Mormon, to Moroni, to baptisms for the dead, to the Three Degrees of Glory.  Unfortunately, these references are neither very strong nor impressive.
+3.   Mormon peculiarities can be found within the New Testament, such as references to the Book of Mormon, to Moroni, to baptisms for the dead, to the Three Degrees of Glory.  Unfortunately, these references are neither very strong nor impressive.
 
-However, I think it's safe to say that most LDS youth going through the Seminary program aren't facing issues like these anymore in school.  I'd wager that the LDS Church's social problems are the major issues brought up by peers now: the roles and opportunities of women and homosexuals in the LDS Church as compared to the roles and opportunities of straight men.  And frankly, I don't think there's much that the LDS Church would *want* to use from the New Testament on these issues, since in the few rare cases where these issues are actually discussed the New Testament shows itself to clearly be a product of its ancient day and has no good PR for the Church on these issues.
+However, I think it's safe to say that most LDS youth going through the Seminary program aren't facing issues like these anymore in school.  I'd wager that the LDS Church's social problems are the major issues brought up by peers now: the roles and opportunities of women and homosexuals in the LDS Church as compared to the roles and opportunities of straight men.  And frankly, I don't think there's much that the LDS Church would *want* to use from the New Testament on these issues, since in the few rare cases where these issues are actually discussed the New Testament shows itself to clearly be a product of its ancient day and has no good PR for the Church on these issues.
 
 My Own List
 -----------
 
-So, if we're going to be playing slightly fast and loose with the text anyways, why not make a different list?  Being a young adult is *hard.*  So many things in life are changing and in flux.  It can be a terrifying and depressing time. Hormones provide a mental and emotional roller coaster.  In times like these, many LDS students already view Seminary as something of an anchor in this storm. So how about the Church reformats this list around this idea of being a refuge. Below are the 25 scriptures that *I* would choose from the New Testament.  They are from the perspective of a believing Latter-day Saint; I do not personally agree with all of them.  However, I think that if this list were actually used by real LDS kids through the Seminary and Institute programs these scriptures could provide a lot of guidance and comfort.  Of course, since so much depends upon emphasis and interpretation then it's possible that some of them could go wrong, so I'll pre-empt some of that by guessing how they could be mis-used.
+So, if we're going to be playing slightly fast and loose with the text anyways, why not make a different list?  Being a young adult is *hard.*  So many things in life are changing and in flux.  It can be a terrifying and depressing time. Hormones provide a mental and emotional roller coaster.  In times like these, many LDS students already view Seminary as something of an anchor in this storm. So how about the Church reformats this list around this idea of being a refuge. Below are the 25 scriptures that *I* would choose from the New Testament.  They are from the perspective of a believing Latter-day Saint; I do not personally agree with all of them.  However, I think that if this list were actually used by real LDS kids through the Seminary and Institute programs these scriptures could provide a lot of guidance and comfort.  Of course, since so much depends upon emphasis and interpretation then it's possible that some of them could go wrong, so I'll pre-empt some of that by guessing how they could be mis-used.
 
-Of course, this is my own list, and I understand that others won't agree with everything here.  So what scriptures from the New Testament do *you* think would help LDS youth actually deal with the living hell that High School can be?  And if you think that it's more important to present scriptures that stand behind particular LDS doctrines instead of providing comfort to the kids, why not explain why?  Do you think that the lowering of ages for missionaries so that men pretty much leave straight out of the Seminary program and women only one year after that changes anything?
+Of course, this is my own list, and I understand that others won't agree with everything here.  So what scriptures from the New Testament do *you* think would help LDS youth actually deal with the living hell that High School can be?  And if you think that it's more important to present scriptures that stand behind particular LDS doctrines instead of providing comfort to the kids, why not explain why?  Do you think that the lowering of ages for missionaries so that men pretty much leave straight out of the Seminary program and women only one year after that changes anything?
 
 Matthew 6:19-21
 ---------------
@@ -43,7 +43,7 @@ I think that this message, though grounded within the apocalyptic perspective of
 
 #### Where Could It Go Wrong?
 
-While the scripture specifically mentions treasures "in heaven", this scripture could be used as though these treasures are actually successfully following the Church "plan" of seminary, mission, marriage, parenthood, and church callings.
+While the scripture specifically mentions treasures "in heaven", this scripture could be used as though these treasures are actually successfully following the Church "plan" of seminary, mission, marriage, parenthood, and church callings.
 
 Matthew 7:7-8
 -------------
@@ -59,7 +59,7 @@ To encourage the youth that they can seek assistance from the divine. While I pe
 
 The youth will probably be taught that their answers must conform to what the Church teaches, at which point I'd argue that there isn't much point to praying about anything anymore if obedience will bring about the same result.
 
-Matthew 11:28-30 *[Added to SM in 2013]*
+Matthew 11:28-30 *[Added to SM in 2013]*
 ----------------------------------------
 
 >  <span>28</span> Come unto me, all ye that labour and are heavy laden, and I  will give you rest.
@@ -125,9 +125,9 @@ Again, young adulthood is a terrible and fantastic time of life. The words of Je
 
 #### Where Could It Go Wrong?
 
-The focus could be on the "believe also in me" part, implying that peace will only come through such belief.  In context, Jesus is actually trying to calm the fears of his disciples about *himself.* He asks them to reflect on their already existing faith in God (the "ye believe" is not an imperative, just a statement) and from that believe in him.  But we can't depend upon teachers always giving the full context, can we?
+The focus could be on the "believe also in me" part, implying that peace will only come through such belief.  In context, Jesus is actually trying to calm the fears of his disciples about *himself.* He asks them to reflect on their already existing faith in God (the "ye believe" is not an imperative, just a statement) and from that believe in him.  But we can't depend upon teachers always giving the full context, can we?
 
-John 14:6 *[Added to SM in 2013]*
+John 14:6 *[Added to SM in 2013]*
 ---------------------------------
 
 >  Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
@@ -205,7 +205,7 @@ LDS youth in the 21st Century care a great deal about equality, justice, and fai
 
 Instead of being seen as a list of examples, it could be presented as the full list of distinctions that do not matter. Gay and straight, for instance, may not be presented as also being one in Christ Jesus.
 
-Galatians 5:22-23 *[Added to SM in 2013]*
+Galatians 5:22-23 *[Added to SM in 2013]*
 -----------------------------------------
 
 >  <span>22</span> But the fruit of the Spirit is love, joy, peace, long-suffering, gentleness, goodness, faith,
@@ -217,7 +217,7 @@ Because it's already taught to the youth enough they should have it officially b
 
 #### Where Could It Go Wrong?
 
-The absence of these could be viewed as evidence of ideas and people who "drive away the Spirit". Not feeling these feelings (such as with people suffering from depression) might be interpreted as being abandoned by God.  I think the likelihood of this misuse is unfortunately rather high.
+The absence of these could be viewed as evidence of ideas and people who "drive away the Spirit". Not feeling these feelings (such as with people suffering from depression) might be interpreted as being abandoned by God.  I think the likelihood of this misuse is unfortunately rather high.
 
 Philippians 4:8
 ---------------
@@ -232,7 +232,7 @@ Because the youth are already familiar with them from the Articles of Faith, and
 
 Because it's already similar to the Article of Faith, it could simply be used to tie the New Testament back to Joseph Smith and the Restoration instead of being read for its own value.
 
-Philippians 4:13 *[Added to SM in 2013]*
+Philippians 4:13 *[Added to SM in 2013]*
 ----------------------------------------
 
 > I can do all things through Christ which strengtheneth me.
@@ -243,7 +243,7 @@ Because it's empowering to think that Christ will assist you through everything.
 
 #### Where Could It Go Wrong?
 
-It could lead to foolhardiness, to bad judgements, to poor planning, rudeness, and dangerous situations.  Missionaries in particular might forge ahead in very rude and overbearing conversations with the idea that Jesus has got their back.
+It could lead to foolhardiness, to bad judgements, to poor planning, rudeness, and dangerous situations.  Missionaries in particular might forge ahead in very rude and overbearing conversations with the idea that Jesus has got their back.
 
 Ephesians 2:10
 --------------
@@ -282,7 +282,7 @@ The grammar is a bit odd and would need explanation (conversation in 16th Centur
 
 #### Where Could It Go Wrong?
 
-It could easily be used against those within the Church who agitate for change and who want more for themselves and others (such as feminists, gays, and intellectuals, oh my!). Pre-1978, for instance, this scripture could have been used against those white members who wanted black members to enjoy all of the Temple blessings the same as other people.  "Be content with such things as ye have."
+It could easily be used against those within the Church who agitate for change and who want more for themselves and others (such as feminists, gays, and intellectuals, oh my!). Pre-1978, for instance, this scripture could have been used against those white members who wanted black members to enjoy all of the Temple blessings the same as other people.  "Be content with such things as ye have."
 
 James 1:5
 ---------
@@ -343,7 +343,7 @@ Revelation 3:20
 
 #### Why I Chose This One?
 
-It's a popular one among Mormons. Also, it represents an opportunity for LDS youth to have a relationship with Jesus.  Also, there's some rather odd fundamentalist Mormon stuff from Joseph Smith that uses this scripture as a base.  Might make class more interesting if it ever comes up (Seminary teachers are always sharing wacky stuff, even nowadays).
+It's a popular one among Mormons. Also, it represents an opportunity for LDS youth to have a relationship with Jesus.  Also, there's some rather odd fundamentalist Mormon stuff from Joseph Smith that uses this scripture as a base.  Might make class more interesting if it ever comes up (Seminary teachers are always sharing wacky stuff, even nowadays).
 
 #### Where Could It Go Wrong?
 
@@ -366,7 +366,7 @@ Students could be presented with this vision of a glorious future as being stron
 Next Up: The Hebrew Bible Series
 --------------------------------
 
-But it'll have to be a few months as I get ready for this one.  For those who've forgotten, the Hebrew Bible is what Christians call the "Old Testament", but since the authors were not Christians writing within a context of an old covenant with God that would someday be superseded with the coming of Jesus, it's more than a little rude to call it that.  It is the collection of scriptures for the Jewish people, and as such it should be called the Hebrew Bible.  So for those who've been happy with this series, there will be more eventually!  Thank you for reading.
+But it'll have to be a few months as I get ready for this one.  For those who've forgotten, the Hebrew Bible is what Christians call the "Old Testament", but since the authors were not Christians writing within a context of an old covenant with God that would someday be superseded with the coming of Jesus, it's more than a little rude to call it that.  It is the collection of scriptures for the Jewish people, and as such it should be called the Hebrew Bible.  So for those who've been happy with this series, there will be more eventually!  Thank you for reading.
 
 [This is from the old set]: |filename|scripture-mastery-nt-10.md "John 17:3"
 [See the post]: |filename|scripture-mastery-nt-22.md "James 1:5"

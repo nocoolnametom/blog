@@ -55,11 +55,11 @@ LINKS =  (('My Technical Blog', 'http://blog.tomdoggett.net/'),
 
 # Social widget
 SOCIAL_TITLE = 'Social'
-SOCIAL = (('google-plus', 'https://plus.google.com/101615050717338574454'),
-          ('facebook', 'https://www.facebook.com/nocoolnametom'),
+SOCIAL = (#('google-plus', 'https://plus.google.com/101615050717338574454'),
+          #('facebook', 'https://www.facebook.com/nocoolnametom'),
           ('goodreads', 'http://www.goodreads.com/user/show/1508028-tom-doggett'),
-          ('twitter', 'https://twitter.com/NoCoolName_Tom'),
-          ('github', 'https://github.com/nocoolnametom'),
+          #('twitter', 'https://twitter.com/NoCoolName_Tom'),
+          #('github', 'https://github.com/nocoolnametom'),
           ('bitcoin', 'bitcoin:1HDAy5n9qf3a7BtxxGoew6NwTAJ6BcBgrB'),
           )
 

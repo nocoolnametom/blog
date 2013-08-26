@@ -2,7 +2,7 @@ Title: Lost Scripture Mastery of the Hebrew Bible Part 3
 Date: 2013-08-31 12:00
 Author: nocoolnametom
 Category: Scripture Mastery: Hebrew Bible
-Slug: lost=scripture-mastery-03
+Slug: lost-scripture-mastery-03
 Status: draft
 
 !!! lost "Lost Scriptures"

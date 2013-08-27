@@ -5,7 +5,7 @@ Category: Scripture Mastery: Hebrew Bible
 Slug: lost-scripture-mastery-01
 
 !!! lost "Lost Scriptures"
-    In 2013 the list of SCripture Mastery scriptures for LDS youth to memorizes was finally changed.  As part of exploring the Scripture Mastery of the Hebrew Bible (commonly called by most Christians the "Old Testament") I figured it would be fun and interesting to look over scriptures that were *removed* from the lists before I embarked on the new standard list for the Hebrew Bible in my Context series.
+    In 2013 the list of Scripture Mastery scriptures for LDS youth to memorize was finally changed.  As part of exploring the Scripture Mastery of the Hebrew Bible (commonly called by most Christians the "Old Testament") I figured it would be fun and interesting to look over scriptures that were *removed* from the lists before I embarked on the new standard list for the Hebrew Bible in my Context series.
 
 ## Exodus 33:11
 > <div dir="rtl">**Hebrew:**
@@ -25,7 +25,7 @@ Slug: lost-scripture-mastery-01
 
 The context for this scripture was that God has finished telling Moses to begin leading the Israelites out of the wilderness near Mount Horeb (where one of the sets of 10 Commandments had been given) and to the land Yahweh had promised to Abraham.  The text then describes how Moses talks with Yahweh.
 
-There is a tent set up outside of the camp.  Whenever Moses goes into the tent, the pillar of cloud that followed the camp would move over the the tent while Yahweh talks with Moses.  Everyone else would move away (except for Joshua), and Yahweh would talk with Moses.  That's what is before this verse.
+There is a tent set up outside of the camp.  Whenever Moses goes into the tent, the pillar of cloud that followed the camp would move over to the tent while Yahweh talks with Moses.  Everyone else would move away (except for Joshua), and Yahweh would talk with Moses.  That's what is before this verse.
 
 Most LDS seminary students were taught this scripture as an example of how God is an embodied person who *has* a face.  They were also taught that the pattern for prophets is that they speak to God in a very literal sense.  Allusions were made when I was a young man in Seminary between this scripture and the experience of Joseph Smith speaking directly to God (or Jesus, or an angel, depending on which account) as a young man in the woods near his home.
 

@@ -43,7 +43,7 @@ Huh…  Those don't really look all that similar at all.  I think someone is mak
 
 ----------------------------------------------
 
-## I Saw a Mighty ***Angls-men*** Fly
+## I Saw a Mighty *Angls-men* Fly
 
 
 [Sample of Pure Language, between circa 4 and circa 20 March 1832](http://josephsmithpapers.org/paperSummary/sample-of-pure-language-between-circa-4-and-circa-20-march-1832)

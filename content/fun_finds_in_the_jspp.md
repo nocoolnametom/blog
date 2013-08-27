@@ -50,7 +50,7 @@ Huh…  Those two descriptions don't really look all that similar at all.  I thi
 
 This is a sample of "pure language" given by Joseph Smith.  Apparently the pure language, besides sounding suspiciously similar to a Germanic language like English, can only be easily translated one way (English => Pure Language) because when it goes the other way (Pure Language => English) it becomes extremely long-winded.
 
-Watch as the residents of early Kirtland are allowed to play with a divine version of [Google Translate](http://translate.google.com/) and immediately begin going what everyone else does today: what happens if we take the translation given to us and translate it *back* into English?
+Watch as the residents of early Kirtland are allowed to play with a divine version of [Google Translate](http://translate.google.com/) and immediately begin experimenting with the process just as many of us do today: what happens if we take the translation given to us and translate it *back* into English?
 
 > **Q** What are Angels called in pure language.
 >
@@ -68,11 +68,11 @@ Reminds me a little bit of [this awesome video](https://www.youtube.com/watch?v=
 
 [Transcribed characters with English entries, circa July–circa December 1835](http://josephsmithpapers.org/paperSummary/transcribed-characters-with-english-entries-circa-july-circa-december-1835?p=5)
 
-Here we have an attempt at some translation of Egyptian by either Joseph Smith or one/some of his followers.  (Though if, as some apologists would have us believe, some of his followers were attempting this translation on their own without Joseph to help them, how did they come up with translations such as this?)  Whoever is behind the small snippet of translation (the Egyptian that is "translated" is transcribed onto the next page) was working very closely with ideas from the Bible, including a reckoning of time from the beginning of the world.
+Here we have an attempt at some translation of Egyptian by either Joseph Smith or one/some of his followers.  (Though if, as some apologists would have us believe, some of his followers were attempting this translation on their own without Joseph to help them, how did they come up with translations such as this?  They'd be doing their best to honestly imitate the process used by Joseph, so in my mind whether or not Joseph himself produced this nipper is beyond the point.  This snippet arose in the same manner as other translations that Joseph attempted.)  Whoever is behind the small snippet of translation (the Egyptian that is "translated" is transcribed onto the next page) was working very closely with ideas from the Bible, including the idea of reckoning time from the beginning of the world.
 
-The two dates in question, if we assume that the translator is operating on the assumption that human history began roughly around the year 4000 BCE (a reasonable assumption for a Kirtand-era Mormon), then the two dates as given are 1038 BCE and 980 BCE.  This is during the [21st Dynasty of Egypt](https://en.wikipedia.org/wiki/Twenty-first_dynasty_of_Egypt).  Apparently both King Onitas and his daughter Katumin have been excised from Egyptian history, possibly by corrupt and designing priests.  Either that or they were actually *Greek* royalty as their names would indicate.
+The two dates in question, if we assume that the translator is operating on the assumption that human history began roughly around the year 4000 BCE (a reasonable assumption for a Kirtand-era Mormon), then the two dates as given are 1038 BCE and 980 BCE.  This is during the [21st Dynasty of Egypt](https://en.wikipedia.org/wiki/Twenty-first_dynasty_of_Egypt).  Apparently both King Onitas and his daughter Katumin have been excised from Egyptian history, possibly by corrupt and designing priests.  Either that or they were actually *Greek* royalty as their Hellenic-sounding names would seem to indicate. (If so, then the chronology in this snippet is *way* behind as the Greek conquest of Egypt, which began a period of Greek royalty, occurred because of the conquests of Alexander the Great around 332 BCE.)
 
-However you look at it, however, 28 years old is tragically young for someone in the higher classes of a major civilization.  Poor Katumin!  She was too young to die!  Unfortunately, she doesn't appear to have ever been born, either, which is possibly just as tragic.
+However you look at it, though, 28 years old is tragically young for someone in the higher classes of a major civilization.  Poor Katumin!  She was too young to die!  Unfortunately, she doesn't appear to have ever been born, either, which is possibly just as tragic.
 
 ----------------------------------------------
 

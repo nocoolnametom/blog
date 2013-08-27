@@ -1,5 +1,5 @@
 Title: Fun Finds in the Joseph Smith Papers Project
-Date: 2012-08-27 16:00
+Date: 2013-08-27 16:00
 Author: nocoolnametom
 Category: Mormonism
 Tags: joseph smith, joseph smith papers, egyptian, silliness

@@ -33,9 +33,9 @@ Apparently, Joseph Smith was also a huge nerd for Freemasonry, but I think most 
 
 [Egyptian Counting, circa July–circa December 1835](http://josephsmithpapers.org/paperSummary/egyptian-counting-circa-july-circa-december-1835)
 
-Every wondered how the ancient Egyptians pronounced the number 42 (the answer to life, the universe, and everything)?  Joseph Smith wrote this page about how the Egyptians counted from at least 1 through 39, so extrapolating off of it, the answer from Joseph Smith would have been:
+Every wondered how the ancient Egyptians pronounced the number 42 (the answer to life, the universe, and everything)?  According to Joseph Smith, the answer would have been:
 
-> Ni-Tah-Teh, or four times ten and 2
+> Ni Tah Teh, or four times ten and 2
 
 Unfortunately, from Wikipedia, that horrible cesspit of anti-Mormon lies, evil Egyptologists have reconstructed the sounds of ancient Egyptian hieroglyphics, which were representational of Egyptian consonants. They claim that forty and two would have been pronounced something akin to:
 

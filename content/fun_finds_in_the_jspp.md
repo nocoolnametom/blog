@@ -15,15 +15,17 @@ Please take a moment to visit the pages linked to in the Joseph Smith Papers Pro
 
 [Explanation of Facsimile of Papyrus Drawing, Early 1842 (Page 2)](http://josephsmithpapers.org/paperSummary/explanation-of-facsimile-of-papyrus-drawing-early-1842?p=2)
 
-First off is this fun Masonic reference on the page of explanation for Facsimile 2.  Joseph has set up four pages with numbers on them to explain the various aspects of the hypocephalus.  As he's going through the, however, he appears to either run out of time or no longer wishes to continue as he abruptly stops interpreting things and instead starts saying that the items "cannot now be revealed unto the world".  Then on the last item on the page he's working on (page 2 of 4, remember), he says
+First off is this fun Masonic reference on the pages of translation for Facsimile 2.  Joseph has set up four pages with numbers on them to explain the various aspects of the hypocephalus.  As he's going through them, however, he appears to either run out of time or no longer wishes to continue as he abruptly stops interpreting things and instead starts saying that the items "cannot now be revealed unto the world".  Then on the last item on the page he's working on (page 2 of 4, remember), he says
 
  > also.--- If the world can find out these nmbers,  So mote it be,--- Amen.
 
 The interesting phrase here is "so mote it be", which was turned into "so *let* it be" by the LDS Church many decades later.
 
-"So mote it be" is an archaic phrase from Freemasonry, which Joseph had officially joined on March 15, 1842, though his father and older brother Hyrum had been involved in the fraternity for many years before that.  The explanations of the Egyptian hypocephalus in question were published late in the Nauvoo *Times and Seasons* on March 19, 1842 (they had originally been intended for publication on March 15, the same day Joseph received his first degree in Masonry).  It has been proposed by some that the reason the explanations stop after number 7 is that Joseph was under pressure to get this page of material to the printers for publication.
+"So mote it be" is an archaic English phrase from Freemasonry, which Joseph had officially joined on March 15, 1842, though his father and older brother Hyrum had been involved in the fraternity for many years before that.  The explanations of the Egyptian hypocephalus in question were published late in the Nauvoo *Times and Seasons* on March 19, 1842 (they had originally been intended for publication on March 15, the same day Joseph received his first degree in Masonry).  It has been proposed by some that the reason the explanations stop after number 7 is that Joseph was under pressure to get this page of material to the printers for publication.
 
 The phrase is used to open and close various Masonic sessions and initiations.  Its presence in this list of materials would be akin to me closing a presentation with the words "So say we all": you would certainly be correct in assuming that I am a huge nerd and a huge fan of Battlestar Galactica.
+
+Apparently, Joseph Smith was also a huge nerd for Freemasonry, but I think most everyone already knew that.
 
 ----------------------------------------------
 
@@ -35,15 +37,15 @@ Every wondered how the ancient Egyptians pronounced the number 42 (the answer to
 
 > Ni-Tah-Teh, or four times ten and 2
 
-Unfortunately, from Wikipedia, that horrible cesspit of anti-Mormon lies, evil Egyptologists have reconstructed the sounds of ancient Egyptian hieroglyphics, which were representational of Egyptian consonants, forty and two would have been pronounced something akin to:
+Unfortunately, from Wikipedia, that horrible cesspit of anti-Mormon lies, evil Egyptologists have reconstructed the sounds of ancient Egyptian hieroglyphics, which were representational of Egyptian consonants. They claim that forty and two would have been pronounced something akin to:
 
 > ḥAmí sínway
 
-Huh…  Those two descriptions don't really look all that similar at all.  I think someone is making something up.  Not to mention that Joseph also has some characters for the Egyptians numerals that look nothing like any form of Egyptians numeral systems yet discovered.  Man, those Egyptologists are either really stupid or really dastardly, aren't they?
+Huh... Those two descriptions don't really look all that similar at all.  I think someone is making something up.  Not to mention that Joseph also has some characters for the Egyptians numerals that look nothing like any form of Egyptians numeral systems yet discovered.  Man, those Egyptologists are either really stupid or really dastardly, aren't they?
 
 ----------------------------------------------
 
-## I Saw a Mighty *Angls-men* Fly
+## I Saw a Mighty *Angls-man* Fly
 
 
 [Sample of Pure Language, between circa 4 and circa 20 March 1832](http://josephsmithpapers.org/paperSummary/sample-of-pure-language-between-circa-4-and-circa-20-march-1832)

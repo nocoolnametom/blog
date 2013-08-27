@@ -4,7 +4,6 @@ Author: nocoolnametom
 Category: Mormonism
 Tags: joseph smith, joseph smith papers, egyptian, silliness
 Slug: fun-finds-in-the-jspp
-# Fun Finds in the Joseph Smith Papers
 
 The following is very snarky at points, so you are fully warned about that.  However, I hope that behind the snark, those of you who might feel offended at what I say can hopefully still feel the deep and abiding fascination I have with the individual behind each of these items and the creative vision he had whether or not that vsion was itself divine.
 

@@ -33,7 +33,7 @@ Apparently, Joseph Smith was also a huge nerd for Freemasonry, but I think most 
 
 [Egyptian Counting, circa July–circa December 1835](http://josephsmithpapers.org/paperSummary/egyptian-counting-circa-july-circa-december-1835)
 
-Every wondered how the ancient Egyptians pronounced the number 42 (the answer to life, the universe, and everything)?  According to Joseph Smith, the answer would have been:
+Ever wondered how the ancient Egyptians pronounced the number 42 (the answer to life, the universe, and everything)?  According to Joseph Smith, the answer would have been:
 
 > Ni Tah Teh, or four times ten and 2
 

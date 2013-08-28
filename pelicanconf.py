@@ -39,6 +39,8 @@ HTML_LANG = 'en'
 
 THEME = "lannisport"
 
+ARCHIVES_URL = 'archives.html'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

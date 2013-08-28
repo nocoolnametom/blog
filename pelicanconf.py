@@ -11,7 +11,7 @@ AUTHOR_EMAIL = u'nocoolnametom@gmail.com'
 ABOUT = 'I\'m a programmer, Ancient Greek reader, feminist, spouse and partner, and a dad.'
 
 SITENAME = u'NoCoolName Blog'
-SITETAGLINE = u'Not a cool name, but at least a cool blog, right?'
+SITETAGLINE = u'Not a cool name, but at least a cool blog.'
 SITEURL = settings.regular_siteurl
 SITE_KEYWORDS = ['mormonism',
                  'religion',
@@ -27,7 +27,8 @@ SITE_DESCRIPTION = ['This is my',
   'kinda-secret-but-not-so-secret-that-I\'m-going-to-be-neurotic-about-it blog detailing',
   'my thoughts as a disaffected Mormon (and pretty much anything else I decide to put',
   'here). I welcome discussion and even negative feedback, but this IS my blog and I\'ll',
-  'not deal kindly with people trolling or just being morons.']
+  'not deal kindly with people trolling or just being morons.  All that aside, please',
+  'enjoy yourselves and feel free to say what you think about my ramblings. :-)']
 
 
 TIMEZONE = 'America/Los_Angeles'
@@ -36,7 +37,7 @@ DEFAULT_LANG = u'en'
 
 HTML_LANG = 'en'
 
-THEME = "gum"
+THEME = "lannisport"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -57,10 +58,10 @@ LINKS =  (('My Technical Blog', 'http://blog.tomdoggett.net/'),
 SOCIAL_TITLE = 'Social'
 SOCIAL = (#('google-plus', 'https://plus.google.com/101615050717338574454'),
           #('facebook', 'https://www.facebook.com/nocoolnametom'),
-          ('goodreads', 'http://www.goodreads.com/user/show/1508028-tom-doggett'),
+          #('goodreads', 'http://www.goodreads.com/user/show/1508028-tom-doggett'),
           #('twitter', 'https://twitter.com/NoCoolName_Tom'),
           #('github', 'https://github.com/nocoolnametom'),
-          ('bitcoin', 'bitcoin:1HDAy5n9qf3a7BtxxGoew6NwTAJ6BcBgrB'),
+          #('bitcoin', 'bitcoin:1HDAy5n9qf3a7BtxxGoew6NwTAJ6BcBgrB'),
           )
 
 # Contact methods
@@ -84,6 +85,8 @@ TWITTER_URL = 'https://twitter.com/NoCoolName_Tom'
 FACEBOOK_URL = 'https://www.facebook.com/nocoolnametom'
 GOOGLE_URL = 'https://plus.google.com/101615050717338574454'
 GOOGLEPLUS_URL = 'https://plus.google.com/101615050717338574454'
+GOODREADS_URL = 'http://www.goodreads.com/user/show/1508028-tom-doggett'
+BITCOIN_ADDRESS = '1HDAy5n9qf3a7BtxxGoew6NwTAJ6BcBgrB'
 
 TWITTER_INTEGRATION_ENABLED = True
 
@@ -97,7 +100,7 @@ SITELOGO = 'avatar.png'
 
 FILES_TO_COPY = (('extra/.htaccess', '.htaccess'),
                  ('extra/robots.txt', 'robots.txt'),
-                 ('extra/avatar_128.png', 'static/avatar.png'),
+                 ('extra/avatar_512_transparent.png', 'static/avatar.png'),
                  )
 
 MD_EXTENSIONS = (['admonition','extra','del_ins','superscript',])

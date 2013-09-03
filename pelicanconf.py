@@ -102,8 +102,32 @@ SITELOGO = 'avatar.png'
 
 FILES_TO_COPY = (('extra/.htaccess', '.htaccess'),
                  ('extra/robots.txt', 'robots.txt'),
-                 ('extra/avatar_512_transparent.png', 'static/avatar.png'),
+                 ('extra/favicon-195.png', 'static/avatar.png'),
+                 ('extra/favicon-195.png', 'favicon-195.png'),
+                 ('extra/favicon-152.png', 'favicon-152.png'),
+                 ('extra/favicon-144.png', 'favicon-144.png'),
+                 ('extra/favicon-128.png', 'favicon-128.png'),
+                 ('extra/favicon-120.png', 'favicon-120.png'),
+                 ('extra/favicon-114.png', 'favicon-114.png'),
+                 ('extra/favicon-96.png', 'favicon-96.png'),
+                 ('extra/favicon-72.png', 'favicon-72.png'),
+                 ('extra/favicon-57.png', 'favicon-57.png'),
+                 ('extra/favicon-32.png', 'favicon-32.png'),
+                 ('extra/favicon.ico', 'favicon.ico'),
                  )
+
+FAVICONS = {195: 'favicon-195.png',
+            152: 'favicon-152.png',
+            144: 'favicon-144.png',
+            128: 'favicon-128.png',
+            120: 'favicon-120.png',
+            114: 'favicon-114.png',
+            96:  'favicon-96.png',
+            72:  'favicon-72.png',
+            57:  'favicon-57.png',
+            32:  'favicon-32.png',
+            'ico': 'favicon.ico',
+           }
 
 MD_EXTENSIONS = (['admonition','extra','del_ins','superscript',])
 

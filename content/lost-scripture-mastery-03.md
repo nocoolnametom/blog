@@ -3,7 +3,6 @@ Date: 2013-08-31 12:00
 Author: nocoolnametom
 Category: Scripture Mastery: Hebrew Bible
 Slug: lost-scripture-mastery-03
-Status: draft
 
 !!! lost "Lost Scriptures"
     In 2013 the list of Scripture Mastery scriptures for LDS youth to memorize was finally changed.  As part of exploring the Scripture Mastery of the Hebrew Bible (commonly called by most Christians the "Old Testament") I figured it would be fun and interesting to look over scriptures that were *removed* from the lists before I embarked on the new standard list for the Hebrew Bible in my Context series.

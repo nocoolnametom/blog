@@ -188,7 +188,7 @@ explorations of this project at the following two repositories:
                                        site using the files from the scraper.  I'm not very far
                                        along on this project, obviously.
 
-[see the original file here,]: |filename|extra/mt-tech-proposal.md
+[see the original file here,]: |filename|mt-tech-proposal.md
 [Prose]: http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/
 [healthcare.gov]: http://healthcare.gov/
 [nocoolnametom/MT-Transfer]: https://github.com/nocoolnametom/MT-Transfer

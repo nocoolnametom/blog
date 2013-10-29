@@ -105,7 +105,7 @@ I welcome any and all comments and questions.  For anyone who is interested you 
 [nocoolnametom/MormonThink]: https://github.com/nocoolnametom/MormonThink
 [The 95 Theses]: http://mormonreformation.blogspot.com/‎
 [The Letter to a CES Director]: http://cesletter.com/
-[[MormonCanon]: http://mormoncanon.com/
+[MormonCanon]: http://mormoncanon.com/
 [ExploringMormonism]: http://exploringmormonism.com/
 [Dialogue]: https://www.dialoguejournal.com/‎
 [Sunstone]: http://www.sunstonemagazine.com/

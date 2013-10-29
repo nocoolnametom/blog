@@ -1,4 +1,3 @@
----
 Title: Technology Proposal for MT
 Date: 2013-10-28 19:00
 Author: nocoolnametom
@@ -6,7 +5,6 @@ Category: Mormonism
 Tags: web development, mormonthink, pelican, prose
 Slug: mt-tech-proposal
 Lang: en
----
 
 
 MT has become, without a doubt, one of the most influential websites of its kid on the Internet.

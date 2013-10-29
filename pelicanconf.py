@@ -113,7 +113,7 @@ FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
                  ('extra/favicon-57.png', 'favicon-57.png'),
                  ('extra/favicon-32.png', 'favicon-32.png'),
                  ('extra/favicon.ico', 'favicon.ico'),
-                 ('extra/mt-tech-proposal.md', 'mt-tech-proposal.md'),
+                 ('mt-tech-proposal.md', 'mt-tech-proposal.md'),
                  )
 
 FAVICONS = {195: 'favicon-195.png',

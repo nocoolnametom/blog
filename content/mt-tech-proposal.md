@@ -7,13 +7,20 @@ Slug: mt-tech-proposal
 Lang: en
 
 
-MT has become, without a doubt, one of the most influential websites of its kid on the Internet. Both beloved and vilified because of their reach and their fame, the editors of MT should be proud of what they have been able to accomplish.
+MT has become, without a doubt, one of the most influential websites of its kind on the Internet. Both beloved and vilified because of their reach and their fame, the editors of MT should be proud of what they have been able to accomplish.
 
-However, the Internet moves fast and staying still means falling behind.  If MT wants to continue to inspire thought and research they need to move away from a paradigm of disseminating information outwards to a new paradigm where the editors are not just content producers but are more traditional editors of content provided by a wide variety of sources.  Response time to research, both in terms of advancing new findings as well as removing incorrect facts, will become more important in the future as sources of information continue to widen.
+However, the Internet moves fast and staying still often means falling behind.  If MT wants to continue to inspire thought and research they need to move away from a paradigm of disseminating information outwards to a new paradigm where the editors are not just content producers but are more traditional editors of content provided by a wide variety of sources.  Response time to research, both in terms of advancing new findings as well as removing incorrect facts, will become more important in the future as sources of information continue to widen.
 
 Recently, MT underwent a much-needed design and layout change.  It is very much appreciated, but we can and need to move further than just a redesign.  However, there are two groups who have different needs that must be satisfied in any future planning.
 
 The editors need a solution where creating and editing content is as easy as possible.  However, developers and designers need a solution that removes as much of the display layout and logic from the content as possible.  CMS's such as Wordpress usually provide a great middle road by providing simple content editing that is later combined with the site layout after editing.  However, CMS's as a technology are complex and are targets for security flaws, and when combined with multiple users of various permission levels can quickly become immensely complex for an average user.
+
+!!! update "Update"
+     I don't even discuss wikis, which has been pointed out by a few people.  It's true, I don't, and it's true that a wiki would take care of much of the needs of the editors and people who want to contribute.  However, I feel that adopting a style used by sites like FAIRMormon have a few shortcomings.  Using FAIRMormon as an example, here are the problems that I feel need to be addressed with a wiki-based system.  None of them are, of course, inevitable or impossible to overcome.  They just seem to be problems that FAIR, a wiki which has been operating for a number of years now with a large volunteer force, still has.
+
+     FAIR has a single voice on every topic.  Those voices may contradict each other at different parts of the site, but within each article there is only one point of view.  The history and discussion pages where (presumably) discussion and debate occurs are blocked off.  Edits are thus private.  We don't know the editors, we don't know who contributed a particularly bad edit, and we don't know if there are other viewpoints that are not being expressed.  It produces an unfortunate image of an "official" page on a subject.  But history and sociology are messy subjects.  We as a public need to have access to these discussions.  We need to know what the biases are in the construction of these pages.  We need to know why or why not certain items of information were written in this or that way, or were entirely omitted.  This produces an air of anonymity, which can be a powerful tool *and* a powerful weapon.  Anonymity provides some of the weaker apologists with a cover: their apologetic theories are imbued with the strength associated with FAIRMormon as a whole because nobody knows whether Daniel Petersen or some lowly high schooler made the argument.  Anonymity also can be a potent weapon: often FAIR has made sport attempting to portray their critics (whether they are also critics of the LDS Church or not) as fearful if they hide behind anonymity.  In the inverse, with a site devoted to an accurate discussion of LDS history and sociology, anonymity can prevent editors who have difficulty in keeping bias out from being found out.
+
+     The answer to this, of course, in a future wiki system is to ensure that the history and discussion pages are open to public view.  Not too hard.  I just think that a system where the entire site can be openly accessed with improvements suggested, even down to the very nuts and bolts of the Javascript and CSS, is more in line with open source ideals.  I know a lot of people disagree with me and can be much more eloquent about how wrong I am.  I look forward to it when an eventual wiki-based site arises that attempts to be the honest FAIRMormon with fuller context to the issues.
 
 
 Static Site Generators
@@ -77,8 +84,30 @@ I welcome any and all comments and questions.  For anyone who is interested you 
 
  * **[nocoolnametom/MormonThink][]** - This is my attempt at creating a SSG-served version of the site using the files from the scraper.  I'm not very far along on this project, obviously.
 
+
+!!! update "Update"
+    In conversation with others and in asking for feedback (here, on Reddit, and through email and chat) it seems that there is a general consensus that this process may be too technical for an average user.  I still disagree but then again I am a professional programmer and my perspective on "user-friendliness" is very skewed so I shouldn't be very surprised if it turns out I am wrong.  The general response is that 1) MT probably needs at least a good re-organization of their materials and sections but a full change of approach might be going too far, 2) *if* (and it's still a big "if") the editors favor a system where outside edits can be accepted it seems a wiki approach is preferred, 3) there have been a few responses from more technical people who really like the idea even if they may or may not see it as feasible.
+
+    So I will admit that the energy behind a more wiki-based solution for disseminating full information on LDS history is impressive.  I support it as it still helps approach the ideals of the newer generation of Internet users who don't always want to simply read information but want to participate with sites in a more back-and-forth method.  I still have my worries about such a project, but I imagine that those worries may be misplaced.
+
+    One further avenue of this discussion has also been brought up by a friend: the Internet presence of the New Mormon History and the resulting communities of people impacted by it seems to be unavoidably fragmenting.  The rise of other sites and approaches, including but not limited to [The 95 Theses][], [The Letter to a CES Director][], [MormonCanon][], [ExploringMormonism][], and a few already-existing wikis shows that there are many people who want to participate and have already made movements of their own in this regard.  While I don't think MormonThink is in any more danger of being lost in the noise than McDonald's is currently in danger of being lost in the noise of other restaurant chains who knows what the future may bring?  However it goes, I doubt that MormonThink will ever truly go away or be forgotten, any more than [Dialogue][] and [Sunstone][] have gone away.  Instead those trailblazers established an untapped field of study and of community and later gave rise to many different on-line communities in the Bloggernacle, such as [By Common Consent][] and [Times and Seasons][], and they're still alive and actively contributing to the discussions.
+
+    So I'm going to leave this technical proposal up on my blog for others to peruse.  I still think that this approach will work much better in approximating the process of editing a scholastic journal than a wiki ever would, but if that is the way things move forward I will not fight against it.  I don't think a wiki is a bad idea: I think it's a *good* idea (I think it's better than the pace of change able to be kept by the current site written by a small group of private editors in their free time), I just think this approach would work better with the current editors of MormonThink and their need to retain a sense of strong ownership over the text and content.  I also think that releasing the content itself under an open source copy-left would do wonders to help the information get out to an even wider audience (foreign languages in particular do not have much access to this information which is a major failing of most existing sites).
+
+    If my friend is right and the fragmentation continues I may someday resurrect this idea and throw my own hat into the ring.  Until then, perhaps the ideas here will spark some interest in how to move forward with presenting the New Mormon History more effectively.
+
+
+
 [see the original file here,]: /mt-tech-proposal.md
 [Prose]: http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/
 [healthcare.gov]: http://healthcare.gov/
 [nocoolnametom/MT-Transfer]: https://github.com/nocoolnametom/MT-Transfer
 [nocoolnametom/MormonThink]: https://github.com/nocoolnametom/MormonThink
+[The 95 Theses]: http://mormonreformation.blogspot.com/‎
+[The Letter to a CES Director]: http://cesletter.com/
+[[MormonCanon]: http://mormoncanon.com/
+[ExploringMormonism]: http://exploringmormonism.com/
+[Dialogue]: https://www.dialoguejournal.com/‎
+[Sunstone]: http://www.sunstonemagazine.com/
+[By Common Consent]: http://bycommonconsent.com/
+[Times and Seasons]: http://timesandseasons.com/

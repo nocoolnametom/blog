@@ -100,8 +100,7 @@ SITELOGO = 'avatar.png'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-FILES_TO_COPY = (('extra/.htaccess', '.htaccess'),
-                 ('extra/robots.txt', 'robots.txt'),
+FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
                  ('extra/favicon-195.png', 'static/avatar.png'),
                  ('extra/favicon-195.png', 'favicon-195.png'),
                  ('extra/favicon-152.png', 'favicon-152.png'),
@@ -114,6 +113,7 @@ FILES_TO_COPY = (('extra/.htaccess', '.htaccess'),
                  ('extra/favicon-57.png', 'favicon-57.png'),
                  ('extra/favicon-32.png', 'favicon-32.png'),
                  ('extra/favicon.ico', 'favicon.ico'),
+                 ('extra/mt-tech-proposal.md', 'mt-tech-proposal.md'),
                  )
 
 FAVICONS = {195: 'favicon-195.png',

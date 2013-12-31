@@ -6,6 +6,8 @@ Tags: old testament, inverse old testament, sunday school
 Slug: inverse-old-testament-02
 Alias: /2013/12/23/inverse-old-testament-02/
 
+![Aaron's Rod Budded and Blossomed](http://static.nocoolnametom.com/images/blog_content/2014/aarons_rod_that_budded.jpg)
+
 ## What is the LDS Inverse Old Testament?
 
 I explained the basic idea in the [first post][], but I'll summarize it again.  This is, based on a number of relatively safe assumptions, the collection of scriptures that almost all Latter-day Saints are going to be unfamiliar with as they have almost never read and studied them.  The Seminary and Institute programs are an obvious exception to this collection, but these programs are really indented for the youth and the young single adults.  Regular Latter-day Saints are unlikely to approach a thorough study of the Hebrew Bible on their own initiative and so their only real exposure to it is going to be through the weekly hour of Sunday School once every four years.

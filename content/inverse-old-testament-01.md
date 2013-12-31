@@ -6,6 +6,8 @@ Tags: old testament, inverse old testament, sunday school
 Slug: inverse-old-testament-01
 Alias: /2013/12/20/inverse-old-testament-01/
 
+![Facsimile 1 Original](http://static.nocoolnametom.com/images/blog_content/2014/facsimile_1_original.jpg)
+
 ## What is the LDS Inverse Old Testament?
 
 I am assuming that *most* Sunday School teachers are both lazy and fearful of doing things wrong.  For this reason, even though the manual itself suggests that teachers use it merely as a guide and not as the lesson itself, most teachers are just going to use the lessons as written.  I am assuming that when the manual says "read Moses 4" referring to an entire chapter that this directive is usually *not* going to be followed.  It takes a long time to read a full chapter and it'd be easier to just summarize it, which introduces our own biases and assumptions far more easily.  Scriptures that *are* more likely to be read are the smaller snippets the manual lists in the catechism-like questions to be read and discussed.  From these assumptions it is easy to create a list of scriptures that are likely to be read and discussed by any typical LDS Sunday School class.  And from this list of scriptures it is easy to create the *inverse* of such a list and produce a list of scriptures that are *not* likely to be read and discussed by any typical LDS Sunday School class.  And, assuming that most Latter-day Saints do not read the Old Testament voluntarily or closely as they do the Book of Mormon or the New Testament, it is likely that this inverse list contains chapters and verses that the average member of the Church is likely to *never* read or discuss.

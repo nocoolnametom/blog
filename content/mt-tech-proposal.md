@@ -6,6 +6,7 @@ Tags: web development, mormonthink, pelican, prose
 Slug: mt-tech-proposal
 Lang: en
 
+![Abstract Nonsense](http://static.nocoolnametom.com/images/blog_content/2014/mt_proposal.jpg)
 
 MT has become, without a doubt, one of the most influential websites of its kind on the Internet. Both beloved and vilified because of their reach and their fame, the editors of MT should be proud of what they have been able to accomplish.
 

@@ -6,6 +6,8 @@ Tags: old testament, inverse old testament, sunday school
 Slug: inverse-old-testament-00
 Alias: /2013/12/20/inverse-old-testament-00/
 
+![Codex Sinaiticus](http://static.nocoolnametom.com/images/blog_content/2014/sinaiticus_rev_21_18.jpg)
+
 See the [first post][] for a fuller explanation, but these are the scriptures that your average LDS Sunday School, and thus your average Latter-day Saint as most do not read the Old Testament is they don't have to, is not going to read and discuss.
 
 \* [= this passage *is* covered technically by the manuals but in such a way that I'd still argue it will almost certainly not be read or discussed.]
